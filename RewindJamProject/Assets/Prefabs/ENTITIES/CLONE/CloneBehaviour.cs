@@ -26,7 +26,6 @@ public class CloneBehaviour : MonoBehaviour
     void Update()
     {
         _Timer -= Time.deltaTime;
-
         if (_Timer <= 0 || ListOf_Timing.Count == 0)
         {
             Destroy(gameObject);
