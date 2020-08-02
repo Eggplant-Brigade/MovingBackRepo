@@ -1,0 +1,7423 @@
+fileFormatVersion: 2
+guid: 5f0a9c874e458834994bd8fc3173b23f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3036997429928877032
+    second: top-down interior v2_0
+  - first:
+      213: -3968169578453129675
+    second: top-down interior v2_1
+  - first:
+      213: 5154773551611119711
+    second: top-down interior v2_2
+  - first:
+      213: -9121369464982740381
+    second: top-down interior v2_3
+  - first:
+      213: 739096196295210279
+    second: top-down interior v2_4
+  - first:
+      213: 5856487857552138216
+    second: top-down interior v2_5
+  - first:
+      213: -5778903755477970498
+    second: top-down interior v2_6
+  - first:
+      213: 5074692961708344931
+    second: top-down interior v2_7
+  - first:
+      213: 7982252412801539210
+    second: top-down interior v2_8
+  - first:
+      213: -2840662926275573470
+    second: top-down interior v2_9
+  - first:
+      213: 7743194561420532615
+    second: top-down interior v2_10
+  - first:
+      213: 1320029678715242045
+    second: top-down interior v2_11
+  - first:
+      213: 5768952065546035479
+    second: top-down interior v2_12
+  - first:
+      213: -2433427102577403552
+    second: top-down interior v2_13
+  - first:
+      213: -5409663114287861739
+    second: top-down interior v2_14
+  - first:
+      213: -6249998737433817320
+    second: top-down interior v2_15
+  - first:
+      213: 7975316731598699976
+    second: top-down interior v2_16
+  - first:
+      213: 8000537395568722181
+    second: top-down interior v2_17
+  - first:
+      213: -8865598065044840913
+    second: top-down interior v2_18
+  - first:
+      213: 3152773049712994925
+    second: top-down interior v2_19
+  - first:
+      213: -5592508224835101366
+    second: top-down interior v2_20
+  - first:
+      213: 7342698973678826743
+    second: top-down interior v2_21
+  - first:
+      213: -3930355892619877386
+    second: top-down interior v2_22
+  - first:
+      213: -8600479244554530051
+    second: top-down interior v2_23
+  - first:
+      213: 5974659080891799552
+    second: top-down interior v2_24
+  - first:
+      213: 1146101157126176329
+    second: top-down interior v2_25
+  - first:
+      213: -3756696792494939626
+    second: top-down interior v2_26
+  - first:
+      213: -7677576390566156366
+    second: top-down interior v2_27
+  - first:
+      213: 4359413793842179780
+    second: top-down interior v2_28
+  - first:
+      213: 6217054385713293609
+    second: top-down interior v2_29
+  - first:
+      213: 8658294910646998125
+    second: top-down interior v2_30
+  - first:
+      213: 4310664822161334642
+    second: top-down interior v2_31
+  - first:
+      213: 8571993382662798922
+    second: top-down interior v2_32
+  - first:
+      213: -3156873077066343039
+    second: top-down interior v2_33
+  - first:
+      213: -8535769722423470499
+    second: top-down interior v2_34
+  - first:
+      213: 1278586878202779291
+    second: top-down interior v2_35
+  - first:
+      213: -6201846572799547968
+    second: top-down interior v2_36
+  - first:
+      213: -8653793874612921679
+    second: top-down interior v2_37
+  - first:
+      213: 5192916289048799038
+    second: top-down interior v2_38
+  - first:
+      213: 2466393012174655578
+    second: top-down interior v2_39
+  - first:
+      213: 8701822185861114409
+    second: top-down interior v2_40
+  - first:
+      213: 5119373922089631689
+    second: top-down interior v2_41
+  - first:
+      213: -7400283941548648
+    second: top-down interior v2_42
+  - first:
+      213: 4230046320829732942
+    second: top-down interior v2_43
+  - first:
+      213: 6513429273326859976
+    second: top-down interior v2_44
+  - first:
+      213: -8379672521450349418
+    second: top-down interior v2_45
+  - first:
+      213: 4423938930274180506
+    second: top-down interior v2_46
+  - first:
+      213: -3532902312588058837
+    second: top-down interior v2_47
+  - first:
+      213: 2572354514454796338
+    second: top-down interior v2_48
+  - first:
+      213: 6760792256407910485
+    second: top-down interior v2_49
+  - first:
+      213: 1057405392653229851
+    second: top-down interior v2_50
+  - first:
+      213: -1408705702656234609
+    second: top-down interior v2_51
+  - first:
+      213: 3528188032359072387
+    second: top-down interior v2_52
+  - first:
+      213: 4113263769998832477
+    second: top-down interior v2_53
+  - first:
+      213: -5847198143945662553
+    second: top-down interior v2_54
+  - first:
+      213: -5108344500288989932
+    second: top-down interior v2_55
+  - first:
+      213: -7868692571607578496
+    second: top-down interior v2_56
+  - first:
+      213: -3770032649386909160
+    second: top-down interior v2_57
+  - first:
+      213: 4536793176558612266
+    second: top-down interior v2_58
+  - first:
+      213: 340065349717513830
+    second: top-down interior v2_59
+  - first:
+      213: -7377768648301265717
+    second: top-down interior v2_60
+  - first:
+      213: -2181350119007794366
+    second: top-down interior v2_61
+  - first:
+      213: 6089728674204757820
+    second: top-down interior v2_62
+  - first:
+      213: 5125668673029442069
+    second: top-down interior v2_63
+  - first:
+      213: -428821738366394363
+    second: top-down interior v2_64
+  - first:
+      213: -7014333072326428425
+    second: top-down interior v2_65
+  - first:
+      213: 8218216530382444029
+    second: top-down interior v2_66
+  - first:
+      213: -5886351685319721879
+    second: top-down interior v2_67
+  - first:
+      213: 3577370165735227899
+    second: top-down interior v2_68
+  - first:
+      213: -1724058399752511074
+    second: top-down interior v2_69
+  - first:
+      213: 6724073856294635
+    second: top-down interior v2_70
+  - first:
+      213: 6300241027586539167
+    second: top-down interior v2_71
+  - first:
+      213: -5426269844668689852
+    second: top-down interior v2_72
+  - first:
+      213: -311085905569173857
+    second: top-down interior v2_73
+  - first:
+      213: -5660842943244985366
+    second: top-down interior v2_74
+  - first:
+      213: 4192648446393121834
+    second: top-down interior v2_75
+  - first:
+      213: -4070743660812989046
+    second: top-down interior v2_76
+  - first:
+      213: 6296253899128111298
+    second: top-down interior v2_77
+  - first:
+      213: 8128491795788789856
+    second: top-down interior v2_78
+  - first:
+      213: 3816388209756390639
+    second: top-down interior v2_79
+  - first:
+      213: -2266781916749002049
+    second: top-down interior v2_80
+  - first:
+      213: -823945031237844651
+    second: top-down interior v2_81
+  - first:
+      213: 1309885766942695622
+    second: top-down interior v2_82
+  - first:
+      213: -7377313725297483327
+    second: top-down interior v2_83
+  - first:
+      213: 2677937006949750525
+    second: top-down interior v2_84
+  - first:
+      213: -3754780212261301368
+    second: top-down interior v2_85
+  - first:
+      213: -4027053263075886738
+    second: top-down interior v2_86
+  - first:
+      213: 2553097099326349205
+    second: top-down interior v2_87
+  - first:
+      213: -2536223648144467276
+    second: top-down interior v2_88
+  - first:
+      213: 2506469056244620861
+    second: top-down interior v2_89
+  - first:
+      213: -6167312639985737958
+    second: top-down interior v2_90
+  - first:
+      213: -6006398244299725895
+    second: top-down interior v2_91
+  - first:
+      213: -3246612009038859383
+    second: top-down interior v2_92
+  - first:
+      213: 7387031265438553352
+    second: top-down interior v2_93
+  - first:
+      213: -1929686574757424024
+    second: top-down interior v2_94
+  - first:
+      213: -1805802592734583214
+    second: top-down interior v2_95
+  - first:
+      213: -3465433355460005942
+    second: top-down interior v2_96
+  - first:
+      213: -46724317954821638
+    second: top-down interior v2_97
+  - first:
+      213: 2126159021295923111
+    second: top-down interior v2_98
+  - first:
+      213: -2122726505247456688
+    second: top-down interior v2_99
+  - first:
+      213: 1023895073821975891
+    second: top-down interior v2_100
+  - first:
+      213: -2867129108437538213
+    second: top-down interior v2_101
+  - first:
+      213: -3161024996678835943
+    second: top-down interior v2_102
+  - first:
+      213: -5711730931283061894
+    second: top-down interior v2_103
+  - first:
+      213: 1401193823981556975
+    second: top-down interior v2_104
+  - first:
+      213: -6584523893291150143
+    second: top-down interior v2_105
+  - first:
+      213: -1405753055519016597
+    second: top-down interior v2_106
+  - first:
+      213: 8193460399868941543
+    second: top-down interior v2_107
+  - first:
+      213: 7095260570455518702
+    second: top-down interior v2_108
+  - first:
+      213: 65498509318031486
+    second: top-down interior v2_109
+  - first:
+      213: -5184008771516311809
+    second: top-down interior v2_110
+  - first:
+      213: 1355713341729768208
+    second: top-down interior v2_111
+  - first:
+      213: -864643438814945710
+    second: top-down interior v2_112
+  - first:
+      213: -3488588436084781086
+    second: top-down interior v2_113
+  - first:
+      213: -6791777719385025960
+    second: top-down interior v2_114
+  - first:
+      213: 4964963200372400352
+    second: top-down interior v2_115
+  - first:
+      213: -3753563031459636524
+    second: top-down interior v2_116
+  - first:
+      213: -3641462965714426324
+    second: top-down interior v2_117
+  - first:
+      213: -5613256869067091369
+    second: top-down interior v2_118
+  - first:
+      213: 3864008049109896648
+    second: top-down interior v2_119
+  - first:
+      213: -2072421603431100033
+    second: top-down interior v2_120
+  - first:
+      213: -7802623752935061707
+    second: top-down interior v2_121
+  - first:
+      213: 2118779504878769784
+    second: top-down interior v2_122
+  - first:
+      213: -5266223179402358969
+    second: top-down interior v2_123
+  - first:
+      213: -2132823492106191490
+    second: top-down interior v2_124
+  - first:
+      213: -8720559022355952693
+    second: top-down interior v2_125
+  - first:
+      213: 7948513701801203203
+    second: top-down interior v2_126
+  - first:
+      213: -1149412981055852639
+    second: top-down interior v2_127
+  - first:
+      213: -3470655872024615766
+    second: top-down interior v2_128
+  - first:
+      213: 8900196407223720034
+    second: top-down interior v2_129
+  - first:
+      213: -2524840798024900619
+    second: top-down interior v2_130
+  - first:
+      213: 8574667383059293262
+    second: top-down interior v2_131
+  - first:
+      213: -8960555650879111888
+    second: top-down interior v2_132
+  - first:
+      213: 193900538307661274
+    second: top-down interior v2_133
+  - first:
+      213: -3628078884304158087
+    second: top-down interior v2_134
+  - first:
+      213: -4046740156335324730
+    second: top-down interior v2_135
+  - first:
+      213: -2537815628100349276
+    second: top-down interior v2_136
+  - first:
+      213: -1075180493678920492
+    second: top-down interior v2_137
+  - first:
+      213: -3933163296397721216
+    second: top-down interior v2_138
+  - first:
+      213: 1987841387186660677
+    second: top-down interior v2_139
+  - first:
+      213: -4606054692805577577
+    second: top-down interior v2_140
+  - first:
+      213: -4062422141265496014
+    second: top-down interior v2_141
+  - first:
+      213: -4679421300278297712
+    second: top-down interior v2_142
+  - first:
+      213: -1550839663163888919
+    second: top-down interior v2_143
+  - first:
+      213: -4466244720460873
+    second: top-down interior v2_144
+  - first:
+      213: -7416726699014998895
+    second: top-down interior v2_145
+  - first:
+      213: -1524374728092806665
+    second: top-down interior v2_146
+  - first:
+      213: -8780997284461934499
+    second: top-down interior v2_147
+  - first:
+      213: 4589461494806508501
+    second: top-down interior v2_148
+  - first:
+      213: -6545197832303940082
+    second: top-down interior v2_149
+  - first:
+      213: -8965950294626992264
+    second: top-down interior v2_150
+  - first:
+      213: -7414484695168134435
+    second: top-down interior v2_151
+  - first:
+      213: -8008032981091592299
+    second: top-down interior v2_152
+  - first:
+      213: -2378919816869520102
+    second: top-down interior v2_153
+  - first:
+      213: -3241971681794072312
+    second: top-down interior v2_154
+  - first:
+      213: 8977786338254443668
+    second: top-down interior v2_155
+  - first:
+      213: 6319992662338580444
+    second: top-down interior v2_156
+  - first:
+      213: 4231394864989543358
+    second: top-down interior v2_157
+  - first:
+      213: -3457123272761571114
+    second: top-down interior v2_158
+  - first:
+      213: -6680783584936648224
+    second: top-down interior v2_159
+  - first:
+      213: -6035695168354131959
+    second: top-down interior v2_160
+  - first:
+      213: 765958112100125828
+    second: top-down interior v2_161
+  - first:
+      213: 2609115332363049891
+    second: top-down interior v2_162
+  - first:
+      213: -2195357848266311724
+    second: top-down interior v2_163
+  - first:
+      213: -7112989603434111742
+    second: top-down interior v2_164
+  - first:
+      213: 7073474150447881341
+    second: top-down interior v2_165
+  - first:
+      213: 7989249930748085467
+    second: top-down interior v2_166
+  - first:
+      213: -9201158578661999008
+    second: top-down interior v2_167
+  - first:
+      213: 4697335912063086359
+    second: top-down interior v2_168
+  - first:
+      213: -3855657257356227407
+    second: top-down interior v2_169
+  - first:
+      213: -3025667934125031493
+    second: top-down interior v2_170
+  - first:
+      213: -740579746566246523
+    second: top-down interior v2_171
+  - first:
+      213: -295536792269423337
+    second: top-down interior v2_172
+  - first:
+      213: -7054221620499626363
+    second: top-down interior v2_173
+  - first:
+      213: -19345053749274560
+    second: top-down interior v2_174
+  - first:
+      213: -9191261993286529959
+    second: top-down interior v2_175
+  - first:
+      213: 3375887245424532389
+    second: top-down interior v2_176
+  - first:
+      213: 6730467778496318978
+    second: top-down interior v2_177
+  - first:
+      213: 5174448233470257906
+    second: top-down interior v2_178
+  - first:
+      213: -7069063560261456996
+    second: top-down interior v2_179
+  - first:
+      213: -2003278836995703639
+    second: top-down interior v2_180
+  - first:
+      213: 2857927987897339218
+    second: top-down interior v2_181
+  - first:
+      213: -7731097146529172313
+    second: top-down interior v2_182
+  - first:
+      213: 6873532013028241172
+    second: top-down interior v2_183
+  - first:
+      213: 2609884572791836902
+    second: top-down interior v2_184
+  - first:
+      213: 1053845595635173543
+    second: top-down interior v2_185
+  - first:
+      213: 3725747830756944504
+    second: top-down interior v2_186
+  - first:
+      213: 8179420596975264555
+    second: top-down interior v2_187
+  - first:
+      213: -5026870131117519350
+    second: top-down interior v2_188
+  - first:
+      213: 6920679663129924913
+    second: top-down interior v2_189
+  - first:
+      213: -2026709899351790725
+    second: top-down interior v2_190
+  - first:
+      213: 7831887567755354600
+    second: top-down interior v2_191
+  - first:
+      213: 7449384478882937097
+    second: top-down interior v2_192
+  - first:
+      213: 1750741393901148922
+    second: top-down interior v2_193
+  - first:
+      213: 7831552810270100834
+    second: top-down interior v2_194
+  - first:
+      213: -5232901040466625601
+    second: top-down interior v2_195
+  - first:
+      213: -2334437642832811989
+    second: top-down interior v2_196
+  - first:
+      213: 7532377309478801067
+    second: top-down interior v2_197
+  - first:
+      213: -1595450051711323697
+    second: top-down interior v2_198
+  - first:
+      213: -5586881569799965986
+    second: top-down interior v2_199
+  - first:
+      213: -5311182803145179449
+    second: top-down interior v2_200
+  - first:
+      213: -1461635220569844181
+    second: top-down interior v2_201
+  - first:
+      213: 1943190196934008888
+    second: top-down interior v2_202
+  - first:
+      213: -9001888664657267983
+    second: top-down interior v2_203
+  - first:
+      213: 292742286997146937
+    second: top-down interior v2_204
+  - first:
+      213: -7702334918495350709
+    second: top-down interior v2_205
+  - first:
+      213: 6729583974664569325
+    second: top-down interior v2_206
+  - first:
+      213: 7358338755658452456
+    second: top-down interior v2_207
+  - first:
+      213: -4863006606992550619
+    second: top-down interior v2_208
+  - first:
+      213: -3085154943947887907
+    second: top-down interior v2_209
+  - first:
+      213: 3874166932975350129
+    second: top-down interior v2_210
+  - first:
+      213: -955298266401977093
+    second: top-down interior v2_211
+  - first:
+      213: 5853301775069278798
+    second: top-down interior v2_212
+  - first:
+      213: 375237667117991396
+    second: top-down interior v2_213
+  - first:
+      213: -2828086624881117025
+    second: top-down interior v2_214
+  - first:
+      213: -5476581671754837977
+    second: top-down interior v2_215
+  - first:
+      213: 6083282198531589063
+    second: top-down interior v2_216
+  - first:
+      213: 4069812207408964193
+    second: top-down interior v2_217
+  - first:
+      213: 5871955356308993956
+    second: top-down interior v2_218
+  - first:
+      213: 3350061632236391930
+    second: top-down interior v2_219
+  - first:
+      213: 404661605018590763
+    second: top-down interior v2_220
+  - first:
+      213: -5207051718145800308
+    second: top-down interior v2_221
+  - first:
+      213: -3114312612990126671
+    second: top-down interior v2_222
+  - first:
+      213: -1192274862746131166
+    second: top-down interior v2_223
+  - first:
+      213: -5416264683143522205
+    second: top-down interior v2_224
+  - first:
+      213: 2655171756893338007
+    second: top-down interior v2_225
+  - first:
+      213: -6968676225053679767
+    second: top-down interior v2_226
+  - first:
+      213: -82164294663046328
+    second: top-down interior v2_227
+  - first:
+      213: 3130858235445463007
+    second: top-down interior v2_228
+  - first:
+      213: 459089679488030175
+    second: top-down interior v2_229
+  - first:
+      213: -5550495334646802617
+    second: top-down interior v2_230
+  - first:
+      213: -8126281657506853501
+    second: top-down interior v2_231
+  - first:
+      213: -8639639316048785358
+    second: top-down interior v2_232
+  - first:
+      213: -3675245778926810447
+    second: top-down interior v2_233
+  - first:
+      213: -6101899555699769217
+    second: top-down interior v2_234
+  - first:
+      213: 4222405115039673111
+    second: top-down interior v2_235
+  - first:
+      213: 1109781617970462030
+    second: top-down interior v2_236
+  - first:
+      213: 4115519494575278980
+    second: top-down interior v2_237
+  - first:
+      213: 3840509532557755614
+    second: top-down interior v2_238
+  - first:
+      213: 6016105808686980470
+    second: top-down interior v2_239
+  - first:
+      213: -5518243833314467333
+    second: top-down interior v2_240
+  - first:
+      213: 7827817840911879379
+    second: top-down interior v2_241
+  - first:
+      213: 6256799040448390178
+    second: top-down interior v2_242
+  - first:
+      213: 6445750755980185554
+    second: top-down interior v2_243
+  - first:
+      213: -1246530263437623439
+    second: top-down interior v2_244
+  - first:
+      213: -3987954069339643566
+    second: top-down interior v2_245
+  - first:
+      213: 3119494514331553225
+    second: top-down interior v2_246
+  - first:
+      213: 2049481136261856927
+    second: top-down interior v2_247
+  - first:
+      213: -7401101426398254559
+    second: top-down interior v2_248
+  - first:
+      213: -7825752917621032103
+    second: top-down interior v2_249
+  - first:
+      213: 6936473501230244009
+    second: top-down interior v2_250
+  - first:
+      213: 6950465787739829777
+    second: top-down interior v2_251
+  - first:
+      213: -7305502770043601442
+    second: top-down interior v2_252
+  - first:
+      213: -6775676520349147995
+    second: top-down interior v2_253
+  - first:
+      213: -2985962119639013028
+    second: top-down interior v2_254
+  - first:
+      213: -8481336277386485868
+    second: top-down interior v2_255
+  - first:
+      213: 7122412752006041763
+    second: top-down interior v2_256
+  - first:
+      213: -7447793691133548086
+    second: top-down interior v2_257
+  - first:
+      213: 2886953407712190143
+    second: top-down interior v2_258
+  - first:
+      213: -530111699301434291
+    second: top-down interior v2_259
+  - first:
+      213: -3839560132583951274
+    second: top-down interior v2_260
+  - first:
+      213: -5496707250713788903
+    second: top-down interior v2_261
+  - first:
+      213: -5588873270714208572
+    second: top-down interior v2_262
+  - first:
+      213: 8388853661899237947
+    second: top-down interior v2_263
+  - first:
+      213: -1033832715529551919
+    second: top-down interior v2_264
+  - first:
+      213: -2873564193985823432
+    second: top-down interior v2_265
+  - first:
+      213: 3425823571263329336
+    second: top-down interior v2_266
+  - first:
+      213: -6458046928815099729
+    second: top-down interior v2_267
+  - first:
+      213: -6591467205689987718
+    second: top-down interior v2_268
+  - first:
+      213: 5529826490886926049
+    second: top-down interior v2_269
+  - first:
+      213: 2775402528957288973
+    second: top-down interior v2_270
+  - first:
+      213: -3753876448167191371
+    second: top-down interior v2_271
+  - first:
+      213: -8996606028620976157
+    second: top-down interior v2_272
+  - first:
+      213: -6587590585756340058
+    second: top-down interior v2_273
+  - first:
+      213: 7078191761947931492
+    second: top-down interior v2_274
+  - first:
+      213: -7635696289453645025
+    second: top-down interior v2_275
+  - first:
+      213: 4834786053600188846
+    second: top-down interior v2_276
+  - first:
+      213: 1317797678336151443
+    second: top-down interior v2_277
+  - first:
+      213: 7641278517052657366
+    second: top-down interior v2_278
+  - first:
+      213: 1119438224530860974
+    second: top-down interior v2_279
+  - first:
+      213: -1973697913686995148
+    second: top-down interior v2_280
+  - first:
+      213: -499162481099580917
+    second: top-down interior v2_281
+  - first:
+      213: -3843331548039701250
+    second: top-down interior v2_282
+  - first:
+      213: -4898841915962685672
+    second: top-down interior v2_283
+  - first:
+      213: -317805268364856066
+    second: top-down interior v2_284
+  - first:
+      213: 1189065895373079339
+    second: top-down interior v2_285
+  - first:
+      213: -6598069056588713900
+    second: top-down interior v2_286
+  - first:
+      213: 4097118779850376616
+    second: top-down interior v2_287
+  - first:
+      213: -5282100869860425479
+    second: top-down interior v2_288
+  - first:
+      213: -5445740085605199568
+    second: top-down interior v2_289
+  - first:
+      213: 7887203494417075158
+    second: top-down interior v2_290
+  - first:
+      213: 2546668633561004519
+    second: top-down interior v2_291
+  - first:
+      213: 7901593911919109212
+    second: top-down interior v2_292
+  - first:
+      213: -881627305435075042
+    second: top-down interior v2_293
+  - first:
+      213: 3874044350556219395
+    second: top-down interior v2_294
+  - first:
+      213: 866464857434443163
+    second: top-down interior v2_295
+  - first:
+      213: 1060365356687775735
+    second: top-down interior v2_296
+  - first:
+      213: -2693981910293062930
+    second: top-down interior v2_297
+  - first:
+      213: 1670639027133577248
+    second: top-down interior v2_298
+  - first:
+      213: -7212746678180216399
+    second: top-down interior v2_299
+  - first:
+      213: -4502754558583916809
+    second: top-down interior v2_300
+  - first:
+      213: 3284668459010009075
+    second: top-down interior v2_301
+  - first:
+      213: 8850054434105998834
+    second: top-down interior v2_302
+  - first:
+      213: -3595175428225821689
+    second: top-down interior v2_303
+  - first:
+      213: 1876183841459204567
+    second: top-down interior v2_304
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: top-down interior v2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9959d55664924964cadae9dc7607925e
+      internalID: 3036997429928877032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9ee635a85bc6940b4e3d2b63f9a0b0
+      internalID: -3968169578453129675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2642c80112d834da8ec1d65162ade3
+      internalID: 5154773551611119711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2193e108412491c409707cb1e867edfc
+      internalID: -9121369464982740381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4cbf43388870744bba42c385eeaab0
+      internalID: 739096196295210279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcb508aa8d4a8c46bfac4911972054e
+      internalID: 5856487857552138216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90d59ee94d875a42883b4c4b6b1658b
+      internalID: -5778903755477970498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec35a4bddfa0aa4b8519c94f3106d69
+      internalID: 5074692961708344931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9094f53f7e5724b4cae838017477b5d0
+      internalID: 7982252412801539210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ccf19110b4cce41bc6855b443cc6ca
+      internalID: -2840662926275573470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77e8dc202bae3a478452148c723ce96
+      internalID: 7743194561420532615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ab29884ca76e34a8575b53ebeab5ae
+      internalID: 1320029678715242045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930c70dde730b1943b5f9e14274e1152
+      internalID: 5768952065546035479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e0d94ee9f839642b15718d7b636054
+      internalID: -2433427102577403552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76b4bf2e5ab2fe499a81fe1cdbc46fb
+      internalID: -5409663114287861739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99ee799a87195d44b5aa02d4a773f19
+      internalID: -6249998737433817320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf47029ba1a2ac438d10bc6d4aaba1c
+      internalID: 7975316731598699976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af47f37fd781e64487d386f36c3da95
+      internalID: 8000537395568722181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40a582c032c1104f954b070c02eb0ae
+      internalID: -8865598065044840913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f95b37c8e3735849a8b8431ab740576
+      internalID: 3152773049712994925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6620b76d4bc99b644aef19544cdedcf9
+      internalID: -5592508224835101366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7512e02fbc03d140bb2287c48a157ab
+      internalID: 7342698973678826743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c5d29be50212644a6b3827ac4c800b
+      internalID: -3930355892619877386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1645d30f2c8b95140ba68991f2b4e6a7
+      internalID: -8600479244554530051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5106e0550baf84e9433cdc15eac93e
+      internalID: 5974659080891799552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec68e745c3670d044a32fb94e9bdad0d
+      internalID: 1146101157126176329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7ff0ef98351d942b28f3104d934f74
+      internalID: -3756696792494939626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dadef25d04fa048b9b85f663cdd35a
+      internalID: -7677576390566156366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28abab65e2fe7d499ba7e87b3074e67
+      internalID: 4359413793842179780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f80de3c852b73498e0c13e95eb9bc2
+      internalID: 6217054385713293609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 656
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68751446ecbb4064aba81b2ab514fe14
+      internalID: 8658294910646998125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 656
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6265bfdc90561c46ad3ed2b687291ee
+      internalID: 4310664822161334642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd0118247532384d884e7b1bbe35f1b
+      internalID: 8571993382662798922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 688
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0535a72d13849498643a5bf5bd88e8
+      internalID: -3156873077066343039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 688
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a6f661c29fb964b81d8564c8df6a9c
+      internalID: -8535769722423470499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 672
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ed345ad2169d0478b9e1e777fd280f
+      internalID: 1278586878202779291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34f050874bb1ff4385b9fb654b409d0
+      internalID: -6201846572799547968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 640
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ded386b22e78d5459b8fa953893ad18
+      internalID: -8653793874612921679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8635878503bb44f8dd06bf186a7696
+      internalID: 5192916289048799038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 624
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef14a4f57c5c514ea3f590b0e98abbd
+      internalID: 2466393012174655578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5431f4fb204b77d408ea415e60a36685
+      internalID: 8701822185861114409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 608
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32235006bb1a3149a40310b82002671
+      internalID: 5119373922089631689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee98d503d8372a4e8e2bbde68fb9d76
+      internalID: -7400283941548648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 624
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405f2c7d9af60bd46915cf143bd0b57c
+      internalID: 4230046320829732942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 640
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599c3242126ebe442aa72f83adae3050
+      internalID: 6513429273326859976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 640
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dd38ca1d340034781ebc889605f931
+      internalID: -8379672521450349418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65b6abb410f3fe43a0079451faa5859
+      internalID: 4423938930274180506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8898493e757a28542a8868b8fdf316f5
+      internalID: -3532902312588058837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 624
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65485f75d16cb242975e5eeaa37ed9f
+      internalID: 2572354514454796338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 608
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5092f49f0382dc448befc6cf6faf4cea
+      internalID: 6760792256407910485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da6abeefbaa37c409a3b501809781b5
+      internalID: 1057405392653229851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1eb870c6facabb44a6bc0d12f3de1db
+      internalID: -1408705702656234609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 592
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bf3d3a8716a734b8b1022b8245f204
+      internalID: 3528188032359072387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 592
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391fbda82f2fe144483c7b2db1ea1071
+      internalID: 4113263769998832477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 592
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b152614849963284eb5b239370a0c47c
+      internalID: -5847198143945662553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 592
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c673091e0acd6e04098dc0d1ff351e42
+      internalID: -5108344500288989932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556ac34ef0ff6ca40bdab78d6547b745
+      internalID: -7868692571607578496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 576
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85079bc836373744e8fef321a5d959f7
+      internalID: -3770032649386909160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e455a241e064b4899acbcadad05bed
+      internalID: 4536793176558612266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_59
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 576
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a78abc4754342438f39be5b0936f47
+      internalID: 340065349717513830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8055d02c868e03547bdbf94b91de8095
+      internalID: -7377768648301265717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a8129d689879a41abe65add60c86bf
+      internalID: -2181350119007794366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_62
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 560
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e5c1a432c810641a2f79b482aeea8b
+      internalID: 6089728674204757820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_63
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 560
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be03f4bf71883b4fa4615afb63b0bcc
+      internalID: 5125668673029442069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_64
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 560
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702b39fe0b40db844b93019ce309e975
+      internalID: -428821738366394363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 544
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6bc567be1b5fa498d4c35589817ee4
+      internalID: -7014333072326428425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef01ed09aa7e674fadaf548292aadfa
+      internalID: 8218216530382444029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 528
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8279b81d3472a40a6e013931e19f74
+      internalID: -5886351685319721879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_68
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c0ec234aae7014d9844f3cd45c485c
+      internalID: 3577370165735227899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_69
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 528
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e49d0f9ba7f47c4f90d8cb7465e0748
+      internalID: -1724058399752511074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca1553f3e0aa684b84fe310a0897421
+      internalID: 6724073856294635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_71
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 544
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a923c6d7f0a5e4ba7f32793f94d593
+      internalID: 6300241027586539167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b352ebe4d49c2f04cb6d1ef492141337
+      internalID: -5426269844668689852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5896647c68535d344bb37126c064260e
+      internalID: -311085905569173857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_74
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 528
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469f7b79fdcc2bd4cacdd1d8168464d0
+      internalID: -5660842943244985366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_75
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 512
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428a233adda9f5a46ab0a38c75bab909
+      internalID: 4192648446393121834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_76
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89b5dfdcb557974aaad974efa8b6549
+      internalID: -4070743660812989046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 16
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b160b85384da146899411ec002d1ae
+      internalID: 6296253899128111298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_78
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 752
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df55ab9bd288a946ad8c856d703d2a8
+      internalID: 8128491795788789856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_79
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 752
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ae67e83af5fe441835eb7199c302d8
+      internalID: 3816388209756390639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_80
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 672
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc40319480bea83458636c421a7bee8f
+      internalID: -2266781916749002049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f987b8da033e5847a0ffff8ca1aa5d8
+      internalID: -823945031237844651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 640
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a622f388285d4942920bf97ba013555
+      internalID: 1309885766942695622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_83
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 640
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e39f7440c36a6429f818a3ca57bf1f
+      internalID: -7377313725297483327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_84
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 546
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd09655e1ba8f5946bf0ba78cbb3b4de
+      internalID: 2677937006949750525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_85
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 550
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed65844fa4433db45bd031234caa6eb4
+      internalID: -3754780212261301368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_86
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 514
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6beb91d6dd5da0458f71d6e97ed2d46
+      internalID: -4027053263075886738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_87
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 514
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6201e9b4367d79c4197a3f390f6b6e2a
+      internalID: 2553097099326349205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_88
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 483
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ea372796bfa424f9f218fb1723fedc
+      internalID: -2536223648144467276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_89
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 451
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2db2e927657944794f8b390ac1314e
+      internalID: 2506469056244620861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_90
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 392
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b45eace8db6f34188d403341f135c1
+      internalID: -6167312639985737958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_91
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 759
+        width: 4
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8709b7b69b59aa439bbf8d0c11affd7
+      internalID: -6006398244299725895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_92
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 755
+        width: 46
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12aada0153f848e42afa05e9bf71b4b5
+      internalID: -3246612009038859383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_93
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 759
+        width: 4
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85f0fd2b04cef243b039e3d563dc181
+      internalID: 7387031265438553352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_94
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 784
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ca6eac952fdab4c9c73e90d72341a7
+      internalID: -1929686574757424024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_95
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 784
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98290f35ba1d1b458e804bfdcb18e06
+      internalID: -1805802592734583214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_96
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 790
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c5575b32c67f64abf6fb83174d8ea2
+      internalID: -3465433355460005942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3da381b198bd0478cb5b35e4694795
+      internalID: -46724317954821638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_98
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 496
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa55a2343135626428acb2463bde13a0
+      internalID: 2126159021295923111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_99
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 480
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9941bf24cbe56f4f8fa71a67d27978f
+      internalID: -2122726505247456688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96d839f3f08e5f439f2e30275992b20
+      internalID: 1023895073821975891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_101
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 448
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe8a99d671829b48aa1c7f764c6603c
+      internalID: -2867129108437538213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 449
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64eb8d34e0d13d94f99117bdc8ea93ca
+      internalID: -3161024996678835943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 433
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084da427bb718f94abcee72722a81560
+      internalID: -5711730931283061894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_104
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 389
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee5371b0a819f94f839a21920613506
+      internalID: 1401193823981556975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_105
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 339
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dddc9c02818a1241ad05b053a1eb620
+      internalID: -6584523893291150143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_106
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 291
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d396670d741e03041a4642f9d535c300
+      internalID: -1405753055519016597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_107
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 242
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb60d42128dac754abb0a542b7c0aa54
+      internalID: 8193460399868941543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_108
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 194
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4a4bcd042026b4f822a018b551975e
+      internalID: 7095260570455518702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_109
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 416
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8d8439339a8664a8efd01137358d21
+      internalID: 65498509318031486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_110
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 418
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73595246b8cbfe242b50b10a1127b669
+      internalID: -5184008771516311809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_111
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 401
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c590b352a45e0428a12b45f434cece
+      internalID: 1355713341729768208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_112
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 400
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3a247bda01e8641b15c35e21c57e96
+      internalID: -864643438814945710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_113
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdef85b13838e2842b1edc319b1c575f
+      internalID: -3488588436084781086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_114
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 384
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724935cdadc75bf4b94d9cc65cb32ed5
+      internalID: -6791777719385025960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_115
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 368
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe72974f48971b4a8890ccd91a4e49d
+      internalID: 4964963200372400352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_116
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 355
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16336a2e64ec6a418b3c8539ab0ce6c
+      internalID: -3753563031459636524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_117
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 355
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8611e8a35498f42b83d009e05dc348
+      internalID: -3641462965714426324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_118
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 371
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3373e0a3240d7474f9e8dc9ef7a8467a
+      internalID: -5613256869067091369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_119
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 361
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8cdf55b1717974a8cd6c585003e9ca
+      internalID: 3864008049109896648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_120
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 320
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5540bf8a15268b4a91b9a5b45482283
+      internalID: -2072421603431100033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_121
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 336
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f478723aff91f9646a5df255e3082831
+      internalID: -7802623752935061707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_122
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 336
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e9c7f80e15b15418461ff405f040e2
+      internalID: 2118779504878769784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_123
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 309
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42282b2c9bdf9e849b6ad95c0cef0468
+      internalID: -5266223179402358969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_124
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 309
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb40a3bebd5ba6847b87f1bb2e4ab8dd
+      internalID: -2132823492106191490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_125
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 293
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26333e7c68a5b4e4682e68df05da332b
+      internalID: -8720559022355952693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_126
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 293
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5550d78322d6432479df4f4b31ffc773
+      internalID: 7948513701801203203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_127
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 339
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b80ad183b449b4681b0378940af9e6
+      internalID: -1149412981055852639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_128
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 323
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb76709eadb4dac428b1ed26f9e9b78c
+      internalID: -3470655872024615766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_129
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 308
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f788a3f04e60a4f8e4c8ad0c6f90e5
+      internalID: 8900196407223720034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_130
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 295
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13a4cfea5665b54783b954083cee1aa
+      internalID: -2524840798024900619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_131
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 293
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add5a400c159ebe4cbde47db360500c5
+      internalID: 8574667383059293262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_132
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 277
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68db0ce41affd1842ab1d50175aaa81a
+      internalID: -8960555650879111888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_133
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 277
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe73b957d426fc43840bbe56c94b76b
+      internalID: 193900538307661274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_134
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 260
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e0b9ad6b5cd714dbf59f0bab41e319
+      internalID: -3628078884304158087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_135
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 260
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36cbfa27e821a24b833161d7244d7cd
+      internalID: -4046740156335324730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_136
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 244
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4024cbfbc75d914781beee9566e065c
+      internalID: -2537815628100349276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_137
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 245
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dc158c6597d494894e4c33e0b90f1f
+      internalID: -1075180493678920492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_138
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 260
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f1424e0fb54184da99ac5fd6ca0c2f
+      internalID: -3933163296397721216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_139
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 260
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d49df953b0ac047909e6614b32fff1
+      internalID: 1987841387186660677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_140
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 242
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ab0021399099d449f2420a1b982aea
+      internalID: -4606054692805577577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_141
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 274
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9682d36db6b3be84ea22e7bbd03f0166
+      internalID: -4062422141265496014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_142
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 272
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf4adf19cac25d4183543c1e21493e3
+      internalID: -4679421300278297712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_143
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 262
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18b4145478ef394e8f061dc09ba0ca1
+      internalID: -1550839663163888919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_144
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 257
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff885eacca00766409acc86b0e68efc0
+      internalID: -4466244720460873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_145
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71c920ff969ff5479b626efee64a454
+      internalID: -7416726699014998895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_146
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 278
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa937bc507e5a0549986c7cd78e4ff39
+      internalID: -1524374728092806665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_147
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 245
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df842a37620f377419443bf3e9644d70
+      internalID: -8780997284461934499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_148
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 229
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a4f6a245113b647abbbcbddf731eb4
+      internalID: 4589461494806508501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_149
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 229
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc8ed29586764e46a8340b1364ec8ce
+      internalID: -6545197832303940082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_150
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 214
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889bb27acef584442b57ea48d6b5c8ee
+      internalID: -8965950294626992264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_151
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 197
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e07015b186e58341aadaffce543e0ce
+      internalID: -7414484695168134435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_152
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 197
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2ca3ce962d57f4a917106bcd3dcd42
+      internalID: -8008032981091592299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_153
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 197
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d206cbae4d022fc4daa8f23c25d022e4
+      internalID: -2378919816869520102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_154
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7283c8cbf21ef1046b35d549194226d2
+      internalID: -3241971681794072312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_155
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 198
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e91812156683cc46ba99344248bdf19
+      internalID: 8977786338254443668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_156
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 166
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ad32544535867469956996d84e4984
+      internalID: 6319992662338580444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_157
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 150
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f86ce540519d3b42802a9ebd98a75ad
+      internalID: 4231394864989543358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_158
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 149
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c05cab0690e4e648b7adc92219c22b3
+      internalID: -3457123272761571114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_159
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 181
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf040570b1aa824ba79c810948231e3
+      internalID: -6680783584936648224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_160
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 181
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19a911a13591bd44988262ae941ea67
+      internalID: -6035695168354131959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_161
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 180
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd538617288337642b9a3934e0355456
+      internalID: 765958112100125828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_162
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 182
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188d51714e61736489ad342b4c762d6b
+      internalID: 2609115332363049891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_163
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 178
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75348858f539734580d724b2a93f0ae
+      internalID: -2195357848266311724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_164
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 178
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a39321b0b2cc54db3435039db8b4ff
+      internalID: -7112989603434111742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_165
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 178
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718ba03330c10124eb009ddd7224f84c
+      internalID: 7073474150447881341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_166
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 162
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5606f31e11683d54db561384ebbe1644
+      internalID: 7989249930748085467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_167
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 162
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e998219bf6e920439ab047e917ab593
+      internalID: -9201158578661999008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_168
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 145
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ee9415b9512d74da0cddf7360c5c90
+      internalID: 4697335912063086359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_169
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 145
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42663665a9877de41ad89e0f214fc1c8
+      internalID: -3855657257356227407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_170
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 146
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8db337c7ba7684eaa722f71a13d4d7
+      internalID: -3025667934125031493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_171
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 165
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc0604a1b364644bbece7f3ee666843
+      internalID: -740579746566246523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_172
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 165
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a9fc59fe5f7a54c90b1ce994c6d9e8
+      internalID: -295536792269423337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_173
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 148
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbd5e16f8fb3a8418330bbbe3a80c7e
+      internalID: -7054221620499626363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_174
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 131
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1b9c29a251afe42a1325bc399427ad
+      internalID: -19345053749274560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_175
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 131
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcfa1a901922244a9181b4a78036d36
+      internalID: -9191261993286529959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_176
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 132
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4424b912dedeaa447981d248b72e2970
+      internalID: 3375887245424532389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_177
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 137
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5b36ae1871e35448ef0dbedf9cfc11
+      internalID: 6730467778496318978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_178
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 136
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8fd4ba36f7abd459dbc3031167def3
+      internalID: 5174448233470257906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_179
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 130
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5d264aecc029f409749ab49c2aebce
+      internalID: -7069063560261456996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_180
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 113
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75eb14846501a9843928b127e8f5bd38
+      internalID: -2003278836995703639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_181
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 116
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad42e47cba489994f9ec1238eabd927c
+      internalID: 2857927987897339218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_182
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 118
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be72dec9ac536e741880bf772dbbb391
+      internalID: -7731097146529172313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_183
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 120
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873c1c864e0936d41a29e91cf73cd953
+      internalID: 6873532013028241172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_184
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 114
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3a302a64c6af447b3a412cd2cc801b
+      internalID: 2609884572791836902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_185
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 133
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f47f1842cf7c148a0e76f15baf5fdd
+      internalID: 1053845595635173543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_186
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 130
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a016a15825da02149921886be2dbac5a
+      internalID: 3725747830756944504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_187
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 131
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3492e395ac4d30747b958c4199589de0
+      internalID: 8179420596975264555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_188
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 118
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c634d2794e2452428921ad8a18bdef1
+      internalID: -5026870131117519350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_189
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 86
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f5bfca5ef9c814ebdcfb32882e27fa
+      internalID: 6920679663129924913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_190
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 85
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d21910b844b4b74e87ceeb432c03772
+      internalID: -2026709899351790725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_191
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 86
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1663e61e39f3de94094c6b0c5d38b067
+      internalID: 7831887567755354600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_192
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131588d2ac35e7142a942c9cbd696369
+      internalID: 7449384478882937097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_193
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 80
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a976bb1fa981e14caf690b763b3848f
+      internalID: 1750741393901148922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_194
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 82
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79b23a27faffd74ab76bb6523ebe8cc
+      internalID: 7831552810270100834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_195
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 81
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6d640d5f1459b4097b2d629d2f1349
+      internalID: -5232901040466625601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_196
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 80
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8354d1922f7c6479ee74540254133c
+      internalID: -2334437642832811989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_197
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 48
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c9a0b5d697cc544b515d8a99447ec4
+      internalID: 7532377309478801067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_198
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 49
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab16d744cd655544f9df49acca900c94
+      internalID: -1595450051711323697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_199
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 49
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75797ba7dde42c441ba06247df922537
+      internalID: -5586881569799965986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_200
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 48
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e4964477b461b40a1bc685b0b6a979
+      internalID: -5311182803145179449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_201
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 65
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d16118211ab5a94fb5da8fc84d70289
+      internalID: -1461635220569844181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_202
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 49
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a5f0927a564b24583396422ba4a9f4
+      internalID: 1943190196934008888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_203
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 53
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e84f62d6891b844a879ca99b5b8287
+      internalID: -9001888664657267983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_204
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 53
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8877e2896859746a70bd7912213c4e
+      internalID: 292742286997146937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_205
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 53
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbaaaf56e279d4429b81eda4d4327a9
+      internalID: -7702334918495350709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_206
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 20
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6f3c3df82af3045890df14647cd3d3
+      internalID: 6729583974664569325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_207
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8aa4aa8d37228489e8429cc385c590
+      internalID: 7358338755658452456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_208
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060b86aa4a5c0374aa27bd7cbda64d60
+      internalID: -4863006606992550619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_209
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 18
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71621a6fd83e6d240a6b59a76fee6017
+      internalID: -3085154943947887907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_210
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 18
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8fc4e2da3c80f468d5d6835b19f42c
+      internalID: 3874166932975350129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_211
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318ebb84f9569b4409f561e5d0426f66
+      internalID: -955298266401977093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_212
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fe77b495063564aa1fdad81b68a2dd
+      internalID: 5853301775069278798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_213
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 22
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78372024bc3acfe409d5776399c55f11
+      internalID: 375237667117991396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_214
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 5
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fddeda1de0ff2428542fa60706d160
+      internalID: -2828086624881117025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_215
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 832
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cc32d18bc0b234badcc7306223b819
+      internalID: -5476581671754837977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_216
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 864
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cd40727f1772c4e9093fc5f785cb42
+      internalID: 6083282198531589063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_217
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 897
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b6687d32a3ee048b1812bbe45b1981
+      internalID: 4069812207408964193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_218
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 913
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12241fbafb960e24190b577892637cdb
+      internalID: 5871955356308993956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_219
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 928
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604b03fa8be98dd4dacb5631cf8a2e6c
+      internalID: 3350061632236391930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_220
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 928
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4c3e1347f96ce439eaf2583a463652
+      internalID: 404661605018590763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_223
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 309
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b6b603441409149a678abd43e8b552
+      internalID: -1192274862746131166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_221
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1d1d41a647c44458f10cc678125969
+      internalID: -5207051718145800308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_222
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 832
+        width: 10
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e58ee0e4e4948408cda01f684db9ab
+      internalID: -3114312612990126671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_224
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 832
+        width: 10
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3107f779d60b545a0058721447e1c6
+      internalID: -5416264683143522205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_225
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 832
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48e7a8d46cd56c4482e9c8a14adfd27
+      internalID: 2655171756893338007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_226
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 832
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d7c7052308323439c506ae2e17e8b6
+      internalID: -6968676225053679767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_227
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 832
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8373f573756b64bb8077db18286b5f
+      internalID: -82164294663046328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_228
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 832
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac64bb10b399e534a8bdc0605bc3e657
+      internalID: 3130858235445463007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_233
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 832
+        width: 10
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a3266fb8c72264d8a5eb8a5b1980da
+      internalID: -3675245778926810447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_234
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 832
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717746772dc97cf44b7040cf9f5a49af
+      internalID: -6101899555699769217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_235
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 832
+        width: 10
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5d4f9e4f802ca4e8ccfefb272839e6
+      internalID: 4222405115039673111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_236
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 10
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124d5b7a1a823c143a147b15ef5fea1e
+      internalID: 1109781617970462030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_237
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 784
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a57356eaf2897e44a7da7df667cd4c6
+      internalID: 4115519494575278980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_238
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 784
+        width: 10
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56baa2d24fad54946bdb74378233adf7
+      internalID: 3840509532557755614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_239
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5729db01066067459265c674f65e7aa
+      internalID: 6016105808686980470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_240
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 768
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479fc00659ea6c044b50a68859c93f84
+      internalID: -5518243833314467333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_241
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 768
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2c562fb9d339042aade16b19c42b4a
+      internalID: 7827817840911879379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_242
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 752
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139884656179c404a8cca2e88fdb5a8f
+      internalID: 6256799040448390178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_243
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 752
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7783157662c535c48a14db055fa62b5f
+      internalID: 6445750755980185554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_244
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 764
+        width: 38
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80de2fc5c22edc4ea141d0e4c344641
+      internalID: -1246530263437623439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_245
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 765
+        width: 46
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b8ae8c57bcf9e49970936e27cc4c6c
+      internalID: -3987954069339643566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_246
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 832
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c76affb9642904681e06c455261232
+      internalID: 3119494514331553225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_247
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f3126546eb93043a85e53c645d5905
+      internalID: 2049481136261856927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_248
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 896
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de142d7f626b27949889fa843ac54a41
+      internalID: -7401101426398254559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_249
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 896
+        width: 10
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744b310d9fa3ec9438c74929092bdba5
+      internalID: -7825752917621032103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_250
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 11
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53a06673037d824581487846b9910ae
+      internalID: 6936473501230244009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_251
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 880
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efd6db040d906d41a5a143c924a1d25
+      internalID: 6950465787739829777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_252
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 880
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c53e88055f9da8469d5e2821fb564d4
+      internalID: -7305502770043601442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_253
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 832
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3378e4532b097ae408be8546aa21646b
+      internalID: -6775676520349147995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_254
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 880
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ec11f684d5a6342bd9ae60fb3fc300
+      internalID: -2985962119639013028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_255
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 880
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aed2065679f9a44689dfdb4402266c2
+      internalID: -8481336277386485868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_256
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 880
+        width: 10
+        height: 40
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5116279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02a4a260e0f01048a22e6af10d17d9d
+      internalID: 7122412752006041763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_257
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 880
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5b09662e81f7f4bbea78de33146649
+      internalID: -7447793691133548086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_258
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 880
+        width: 10
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670af50ec47e70846b577f6859b0316a
+      internalID: 2886953407712190143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_259
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 880
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38374e351d0bc94c815c3a3aa2efc86
+      internalID: -530111699301434291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_260
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 880
+        width: 10
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41654a9c2a4c1a46ba6e3f5fefce8d0
+      internalID: -3839560132583951274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_261
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 964
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00409565bc311b846876e0e207ae23b2
+      internalID: -5496707250713788903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_262
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 971
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c5d28c23d6002469c8ebc9e938193c
+      internalID: -5588873270714208572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_263
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 971
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9afee8472d9f19449a5fb5536cae06b
+      internalID: 8388853661899237947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_264
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 971
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c44b4e369cb2448a17b660a5a2d138
+      internalID: -1033832715529551919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_265
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 955
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b30feb630498c14c9454dea23e69158
+      internalID: -2873564193985823432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_266
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 924
+        width: 4
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6eb3228f3d3971418501c7fa2db7078
+      internalID: 3425823571263329336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_267
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 939
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f85873ca67206a42a21ec314c88e72c
+      internalID: -6458046928815099729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_268
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 969
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2852fd4806c6343ab21d1808653970
+      internalID: -6591467205689987718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_269
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 960
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cdf3b5b39b6bc4face03c1b18f9072
+      internalID: 5529826490886926049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_270
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 960
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5763cda0991a38742aa23876bd0f4f2a
+      internalID: 2775402528957288973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_271
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 944
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2516c7ab4ba44414b84f33085664b989
+      internalID: -3753876448167191371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_272
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 944
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56989dae4aef5084eb63589167a15569
+      internalID: -8996606028620976157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_273
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 928
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98bc965c06dd3946831f8214c6ae5fd
+      internalID: -6587590585756340058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_274
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 928
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c19c7d40c5c9349b6889a016c54fb7
+      internalID: 7078191761947931492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_275
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 959
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f23a8fdd33a61b4f87984f8d37e5a9b
+      internalID: -7635696289453645025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_276
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 971
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71b03401f7115042bec8b17fb80da31
+      internalID: 4834786053600188846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_277
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 939
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aea653dd31f69548be4c1afa0008100
+      internalID: 1317797678336151443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_278
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 944
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8a88f6c30a65742ab58b1836ee667f
+      internalID: 7641278517052657366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_279
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 944
+        width: 3
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca41e3b4ff02cf40935610f7de6854c
+      internalID: 1119438224530860974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_280
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 944
+        width: 3
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac93a4e157b1ff49a8cc9c40862c5d8
+      internalID: -1973697913686995148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_281
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 952
+        width: 10
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea546984b896c184c91319581342e3f2
+      internalID: -499162481099580917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_229
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 968
+        width: 15
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999208e95f1c5394089e47164bd7004e
+      internalID: 459089679488030175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_232
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 968
+        width: 13
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64316f1d1071a54498ccd20ab97d440d
+      internalID: -8639639316048785358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_282
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 920
+        width: 38
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343324a2947d2354389910c00e257316
+      internalID: -3843331548039701250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_283
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 918
+        width: 38
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6a47fb77e566742a2d6eb3d60b99b5
+      internalID: -4898841915962685672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_284
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 918
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7296fb66f792b3442afd4ab48be412ae
+      internalID: -317805268364856066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_285
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 918
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ff6da37b899a14484debba88dee960
+      internalID: 1189065895373079339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_286
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 935
+        width: 38
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8514d10651ff0488250b04d0f56bd0
+      internalID: -6598069056588713900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_287
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 935
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dffc5de3c185a7478c709d98d937642
+      internalID: 4097118779850376616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_288
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 935
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.7270026, y: -0.11613464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507509b55309c9648b334d1888fb7b69
+      internalID: -5282100869860425479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_289
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 873
+        width: 38
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55946ae5a4ccf254eba55164d7dac597
+      internalID: -5445740085605199568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_290
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 873
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4392134a5eaaf64796024d3c5dfafc7
+      internalID: 7887203494417075158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_291
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 873
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a39e785751472244bed9e34ece19357
+      internalID: 2546668633561004519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_292
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 870
+        width: 38
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125c64cbec0e04a4ca8346e198a49090
+      internalID: 7901593911919109212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_293
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 870
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b0b97dce07374499c86cd95fedddf1
+      internalID: -881627305435075042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_294
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 870
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce8c09c491235c49845380230ebbebb
+      internalID: 3874044350556219395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_230
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 870
+        width: 38
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42af97ffaee9124d9e1ff37924f8492
+      internalID: -5550495334646802617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_231
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 870
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38464307f0428b4799f1d7964ccf9fc
+      internalID: -8126281657506853501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_295
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 870
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f622a3c4bfe1ef4e8f1e62ab029b8a1
+      internalID: 866464857434443163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_296
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 822
+        width: 38
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5f2272dfe748647be1dc4a8b08da68
+      internalID: 1060365356687775735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_297
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 822
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7da2b18af77bd4e866840acef07b74
+      internalID: -2693981910293062930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_298
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 822
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7734620613de7a4592bb28b75047feb
+      internalID: 1670639027133577248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_299
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 920
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d187130ce847b434c89ddf0b87e6f390
+      internalID: -7212746678180216399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_300
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 955
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c52935c5aab6e64e9fcea0763f3ced6
+      internalID: -4502754558583916809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_301
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 936
+        width: 5
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbce20f4ef435e444bad7c0be3ce1f6d
+      internalID: 3284668459010009075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_302
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 362
+        width: 3
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10433a0fadeccdc40a7ae687f93f4f8f
+      internalID: 8850054434105998834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_303
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 944
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99adc3c25b19c9b4890f5b3ce6aef870
+      internalID: -3595175428225821689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_304
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 960
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7c9dab0bebb5a46a9072c7959e4944
+      internalID: 1876183841459204567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
