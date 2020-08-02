@@ -2123,6 +2123,12 @@ TextureImporter:
   - first:
       213: 519182732535430979
     second: ts_dungeon_706
+  - first:
+      213: 4932836566308973290
+    second: ts_dungeon_707
+  - first:
+      213: 573209983829433199
+    second: ts_dungeon_708
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -4965,7 +4971,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 480
-        y: 126
+        y: 129
         width: 16
         height: 17
       alignment: 0
@@ -17023,7 +17029,7 @@ TextureImporter:
         width: 17
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -17044,7 +17050,7 @@ TextureImporter:
         width: 21
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -17052,6 +17058,48 @@ TextureImporter:
       bones: []
       spriteID: 34f7a4ac1f1843700800000000000000
       internalID: 519182732535430979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ts_dungeon_707
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 135
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea67e5c8b4f47440800000000000000
+      internalID: 4932836566308973290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ts_dungeon_708
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 117
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b5cdb717374f700800000000000000
+      internalID: 573209983829433199
       vertices: []
       indices: 
       edges: []
