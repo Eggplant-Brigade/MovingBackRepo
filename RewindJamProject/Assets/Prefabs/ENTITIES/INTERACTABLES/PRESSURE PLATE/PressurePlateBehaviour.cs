@@ -8,25 +8,36 @@ public class PressurePlateBehaviour : MonoBehaviour
 
     #region References
     public List<GameObject> ListOf_ObjectActivated;
+    public List<GameObject> ListOf_ObjectsDeactivated;
     #endregion
 
     #endregion
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log("Qualcosa è entrato");
+
         foreach (GameObject TheObject in ListOf_ObjectActivated)
         {
             TheObject.SetActive(true);
+        }
+
+        foreach (GameObject TheObject in ListOf_ObjectsDeactivated)
+        {
+            TheObject.SetActive(false);
         }
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        Debug.Log("Qualcosa è uscito");
+
         foreach (GameObject TheObject in ListOf_ObjectActivated)
         {
             TheObject.SetActive(false);
+        }
+
+        foreach (GameObject TheObject in ListOf_ObjectsDeactivated)
+        {
+            TheObject.SetActive(true);
         }
     }
 }

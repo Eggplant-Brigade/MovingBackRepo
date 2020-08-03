@@ -45,6 +45,11 @@ public class PlayerBehaviour : MonoBehaviour
 
     #endregion
 
+    private void Start()
+    {
+        Spawn = transform.position; 
+    }
+
     private void Update()
     {
         
@@ -84,36 +89,41 @@ public class PlayerBehaviour : MonoBehaviour
         #region Input Handling
         if (Input.GetKeyDown(MoveUp)|| Input.GetKeyDown(MoveUp_Alt))
         {
-            transform.position = transform.position + new Vector3(0, _Step);
-            ListOf_Movements.Add(transform.position);
-
-            float currentTime = _Timer;
-            ListOf_Timing.Add(currentTime);
+            Move(0, _Step);
         }
         else if (Input.GetKeyDown(MoveLeft) || Input.GetKeyDown(MoveLeft_Alt))
         {
-            transform.position = transform.position + new Vector3(-_Step, 0);
-            ListOf_Movements.Add(transform.position);
-
-            float currentTime = _Timer;
-            ListOf_Timing.Add(currentTime);
+            Move(-_Step, 0);
         }
         else if (Input.GetKeyDown(MoveRight) || Input.GetKeyDown(MoveRight_Alt))
         {
-            transform.position = transform.position + new Vector3(_Step, 0);
-            ListOf_Movements.Add(transform.position);
-
-            float currentTime = _Timer;
-            ListOf_Timing.Add(currentTime);
+            Move(_Step, 0);
         }
         else if (Input.GetKeyDown(MoveDown) || Input.GetKeyDown(MoveDown_Alt))
         {
-            transform.position = transform.position + new Vector3(0, -_Step);
+            Move(0, -_Step);
+        }
+        #endregion
+    }
+
+
+    public void Move(float horizontal, float vertical)
+    {
+
+        GetComponent<BoxCollider2D>().enabled = false;
+        RaycastHit2D hit = Physics2D.Linecast(transform.position, transform.position + new Vector3(horizontal, vertical));
+        GetComponent<BoxCollider2D>().enabled = true;
+
+        Debug.Log(hit.transform);
+
+        if (hit.transform == null || hit.collider.gameObject.layer != 8 )
+        {
+            transform.position = transform.position + new Vector3(horizontal, vertical);
             ListOf_Movements.Add(transform.position);
 
             float currentTime = _Timer;
             ListOf_Timing.Add(currentTime);
         }
-        #endregion
+        
     }
 }
