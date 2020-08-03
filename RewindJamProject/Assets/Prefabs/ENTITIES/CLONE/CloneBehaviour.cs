@@ -47,4 +47,9 @@ public class CloneBehaviour : MonoBehaviour
         }
         
     }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+         Physics2D.IgnoreCollision(collision.collider, GetComponent<Collider2D>());
+    }
 }
