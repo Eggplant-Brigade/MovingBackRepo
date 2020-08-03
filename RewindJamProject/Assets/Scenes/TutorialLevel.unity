@@ -1406,7 +1406,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1560572665322256283, guid: dc8fb7259061e6f46b08e22065a87500, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1560572665322256283, guid: dc8fb7259061e6f46b08e22065a87500, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -18277,10 +18277,12 @@ GameObject:
   m_Component:
   - component: {fileID: 1737469008}
   - component: {fileID: 1737469007}
+  - component: {fileID: 1737469010}
+  - component: {fileID: 1737469009}
   m_Layer: 0
   m_Name: ts_dungeon_152
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -18349,6 +18351,45 @@ Transform:
   m_Father: {fileID: 2128497617}
   m_RootOrder: 25
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1737469009
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1737469006}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.3, y: 0.26}
+    newSize: {x: 0.3, y: 0.26}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.3, y: 0.26}
+  m_EdgeRadius: 0
+--- !u!114 &1737469010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1737469006}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 674a16cbee02e174fb7e8c3ffcf7f546, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _NextSceneName: 
 --- !u!1 &1748113899
 GameObject:
   m_ObjectHideFlags: 0
@@ -18768,7 +18809,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1560572665322256283, guid: dc8fb7259061e6f46b08e22065a87500, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1560572665322256283, guid: dc8fb7259061e6f46b08e22065a87500, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
