@@ -47,6 +47,8 @@ public class PlayerBehaviour : MonoBehaviour
 
     #endregion
 
+    #region Behaviours
+
     private void Start()
     {
         Spawn = transform.position; 
@@ -105,6 +107,9 @@ public class PlayerBehaviour : MonoBehaviour
         }
     }
 
+    #endregion
+
+    #region Methods
     public void Move(float horizontal, float vertical)
     {
 
@@ -133,10 +138,12 @@ public class PlayerBehaviour : MonoBehaviour
         {
             #region Crea Clone
             GameObject newClone = Instantiate(Clone, transform.position, Quaternion.identity); //creo clone
+            newClone.transform.localScale = transform.localScale; //rendo della stessa misura del Player
 
             newClone.GetComponent<CloneBehaviour>().ListOf_Movements = new List<Vector3>(ListOf_Movements); //gli do la lista dei movimenti
             newClone.GetComponent<CloneBehaviour>().ListOf_Timing = new List<float>(ListOf_Timing); //e la lista dei tempi
             newClone.GetComponent<CloneBehaviour>()._Timer = _Timer; //e il tempo totale
+            
             newClone.GetComponent<CloneBehaviour>().ListOf_Interactions = new List<bool>(ListOf_Interaction);
             #endregion
 
@@ -155,5 +162,5 @@ public class PlayerBehaviour : MonoBehaviour
         _Timer = 0;
     }
 
-    
+    #endregion
 }
