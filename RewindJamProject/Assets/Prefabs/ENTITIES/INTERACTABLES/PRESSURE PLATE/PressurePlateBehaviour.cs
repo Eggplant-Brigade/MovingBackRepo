@@ -15,7 +15,6 @@ public class PressurePlateBehaviour : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log("Entrato qualcosa");
 
         foreach (GameObject TheObject in ListOf_ObjectActivated)
         {
