@@ -25,6 +25,7 @@ public class PlayerBehaviour : MonoBehaviour
     [Space(5)]
     public KeyCode MoveDown;
     public KeyCode MoveDown_Alt;
+    
 
     #endregion
 
@@ -42,6 +43,7 @@ public class PlayerBehaviour : MonoBehaviour
     [HideInInspector]
     public List<Vector3> ListOf_Movements;
     public List<float> ListOf_Timing;
+    public List<bool> ListOf_Interaction;
 
     #endregion
 
@@ -78,6 +80,16 @@ public class PlayerBehaviour : MonoBehaviour
         {
             Move(0, -_Step);
         }
+        else if (Input.GetKeyDown("space"))
+        {
+            
+            ListOf_Movements.Add(transform.position);
+            float currentTime = _Timer;
+            ListOf_Timing.Add(currentTime);
+
+            ListOf_Interaction.Add(true);
+
+        }
         #endregion
     }
 
@@ -107,6 +119,8 @@ public class PlayerBehaviour : MonoBehaviour
 
             float currentTime = _Timer;
             ListOf_Timing.Add(currentTime);
+
+            ListOf_Interaction.Add(false);
         }
         
     }
@@ -123,6 +137,7 @@ public class PlayerBehaviour : MonoBehaviour
             newClone.GetComponent<CloneBehaviour>().ListOf_Movements = new List<Vector3>(ListOf_Movements); //gli do la lista dei movimenti
             newClone.GetComponent<CloneBehaviour>().ListOf_Timing = new List<float>(ListOf_Timing); //e la lista dei tempi
             newClone.GetComponent<CloneBehaviour>()._Timer = _Timer; //e il tempo totale
+            newClone.GetComponent<CloneBehaviour>().ListOf_Interactions = new List<bool>(ListOf_Interaction);
             #endregion
 
             //Riporta giocatore alla partenza
@@ -133,6 +148,7 @@ public class PlayerBehaviour : MonoBehaviour
             {
                 ListOf_Movements.RemoveAt(i);
                 ListOf_Timing.RemoveAt(i);
+                ListOf_Interaction.RemoveAt(i);
             }
         }
 

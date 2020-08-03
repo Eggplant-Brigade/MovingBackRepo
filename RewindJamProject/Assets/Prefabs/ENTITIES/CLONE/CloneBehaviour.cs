@@ -9,12 +9,15 @@ public class CloneBehaviour : MonoBehaviour
     [HideInInspector]
     public List<Vector3> ListOf_Movements;
     public List<float> ListOf_Timing;
+    public List<bool> ListOf_Interactions;
 
     #region Timers
     [HideInInspector]
     public float _Timer;
     #endregion
 
+    [HideInInspector]
+    public bool IsInteracting = false;
     #endregion
 
     private void Start()
@@ -43,6 +46,12 @@ public class CloneBehaviour : MonoBehaviour
 
                 ListOf_Movements.RemoveAt(ListOf_Movements.Count - 1);
                 ListOf_Timing.RemoveAt(ListOf_Timing.Count - 1);
+
+
+                
+                ListOf_Interactions.RemoveAt(ListOf_Interactions.Count - 1);
+
+                IsInteracting = ListOf_Interactions[ListOf_Interactions.Count - 1];
             }
         }
         
