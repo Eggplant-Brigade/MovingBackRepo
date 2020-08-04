@@ -6,6 +6,13 @@ public class CloneBehaviour : MonoBehaviour
 {
     #region Variables
 
+    #region References
+    public Sprite MoveUpSprite;
+    public Sprite MoveDownSprite;
+    public Sprite MoveLeftSprite;
+    public Sprite MoveRightSprite;
+    #endregion
+
     [HideInInspector]
     public List<Vector3> ListOf_Movements;
     [HideInInspector]
@@ -26,6 +33,7 @@ public class CloneBehaviour : MonoBehaviour
     private void Start()
     {
         ListOf_Movements.RemoveAt(ListOf_Movements.Count - 1); //tolgo l'ultima coordinata che non mi serve visto che ci sono già sopra
+        _Timer = GameManager._RewindTime;
     }
 
     void Update()
@@ -44,16 +52,43 @@ public class CloneBehaviour : MonoBehaviour
             }
             else
             {
+                Vector2 Diff = transform.position - ListOf_Movements[ListOf_Movements.Count - 1];
+
+
                 transform.position = ListOf_Movements[ListOf_Movements.Count - 1];
 
                 ListOf_Movements.RemoveAt(ListOf_Movements.Count - 1);
                 ListOf_Timing.RemoveAt(ListOf_Timing.Count - 1);
 
-
                 
                 ListOf_Interactions.RemoveAt(ListOf_Interactions.Count - 1);
 
                 IsInteracting = ListOf_Interactions[ListOf_Interactions.Count - 1];
+
+
+
+                #region Sprite Handling
+                if (Diff.x == 0 && Diff.y > 0)
+                {
+                    GetComponent<SpriteRenderer>().flipX = false;
+                    GetComponent<SpriteRenderer>().sprite = MoveUpSprite;
+                }
+                else if (Diff.x == 0 && Diff.y < 0)
+                {
+                    GetComponent<SpriteRenderer>().flipX = false;
+                    GetComponent<SpriteRenderer>().sprite = MoveDownSprite;
+                }
+                else if (Diff.x > 0 && Diff.y == 0)
+                {
+                    GetComponent<SpriteRenderer>().flipX = false;
+                    GetComponent<SpriteRenderer>().sprite = MoveRightSprite;
+                }
+                else if (Diff.x < 0 && Diff.y == 0)
+                {
+                    GetComponent<SpriteRenderer>().flipX = true;
+                    GetComponent<SpriteRenderer>().sprite = MoveRightSprite;
+                }
+                #endregion
             }
         }
         
