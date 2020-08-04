@@ -40,12 +40,14 @@ public class PlayerBehaviour : MonoBehaviour
     float _Timer = 0;
     #endregion
 
+    #region Liste
     [HideInInspector]
     public List<Vector3> ListOf_Movements;
     [HideInInspector]
     public List<float> ListOf_Timing;
     [HideInInspector]
     public List<bool> ListOf_Interaction;
+    #endregion
 
     #endregion
 
@@ -114,28 +116,50 @@ public class PlayerBehaviour : MonoBehaviour
     #region Methods
     public void Move(float horizontal, float vertical)
     {
+        #region Check Movement Line
 
         GetComponent<BoxCollider2D>().enabled = false;
         RaycastHit2D hit = Physics2D.Linecast(transform.position, transform.position + new Vector3(horizontal, vertical));
+
+        if (hit.transform != null && hit.collider.gameObject.CompareTag("interactable"))
+        {
+            Collider2D CollidedInteractable = hit.collider;
+            CollidedInteractable.enabled = false;
+            hit = Physics2D.Linecast(transform.position, transform.position + new Vector3(horizontal, vertical));
+            CollidedInteractable.enabled = true;
+        }
         GetComponent<BoxCollider2D>().enabled = true;
+
+        #endregion
 
         if (hit.transform == null || hit.collider.gameObject.layer != 8 )
         {
+            #region Movable Object
+            if (hit.transform != null && hit.collider.gameObject.CompareTag("movable"))
+            {
+                if(!hit.collider.gameObject.GetComponent<MovableObjectBehaviour>().AttemptMove(vertical, horizontal))
+                {
+                    return;
+                }
+            }
+            #endregion
+
             transform.position = transform.position + new Vector3(horizontal, vertical);
+
+            #region Aggiorna Lista
             ListOf_Movements.Add(transform.position);
 
             float currentTime = _Timer;
             ListOf_Timing.Add(currentTime);
 
             ListOf_Interaction.Add(false);
+            #endregion
         }
-        
+
     }
 
     public void Rewind()
     {
-        
-
         if (ListOf_Movements.Count > 0) //Se mi sono mosso almeno una volta
         {
             #region Crea Clone
@@ -149,6 +173,7 @@ public class PlayerBehaviour : MonoBehaviour
             newClone.GetComponent<CloneBehaviour>().ListOf_Interactions = new List<bool>(ListOf_Interaction);
             #endregion
 
+            #region Resetta Player
             //Riporta giocatore alla partenza
             transform.position = Spawn;
 
@@ -159,6 +184,7 @@ public class PlayerBehaviour : MonoBehaviour
                 ListOf_Timing.RemoveAt(i);
                 ListOf_Interaction.RemoveAt(i);
             }
+            #endregion
         }
 
         _Timer = 0;

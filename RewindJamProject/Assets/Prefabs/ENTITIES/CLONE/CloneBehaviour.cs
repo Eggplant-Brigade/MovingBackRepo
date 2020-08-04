@@ -8,7 +8,9 @@ public class CloneBehaviour : MonoBehaviour
 
     [HideInInspector]
     public List<Vector3> ListOf_Movements;
+    [HideInInspector]
     public List<float> ListOf_Timing;
+    [HideInInspector]
     public List<bool> ListOf_Interactions;
 
     #region Timers
@@ -20,12 +22,12 @@ public class CloneBehaviour : MonoBehaviour
     public bool IsInteracting = false;
     #endregion
 
+    #region Behaviour
     private void Start()
     {
         ListOf_Movements.RemoveAt(ListOf_Movements.Count - 1); //tolgo l'ultima coordinata che non mi serve visto che ci sono già sopra
     }
 
-    // Update is called once per frame
     void Update()
     {
         _Timer -= Time.deltaTime;
@@ -61,4 +63,5 @@ public class CloneBehaviour : MonoBehaviour
     {
          Physics2D.IgnoreCollision(collision.collider, GetComponent<Collider2D>());
     }
+    #endregion
 }
