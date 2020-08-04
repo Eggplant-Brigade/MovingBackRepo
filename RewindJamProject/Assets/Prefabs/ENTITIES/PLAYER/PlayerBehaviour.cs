@@ -78,25 +78,30 @@ public class PlayerBehaviour : MonoBehaviour
         if (Input.GetKeyDown(MoveUp)|| Input.GetKeyDown(MoveUp_Alt))
         {
             Move(0, _Step);
-            
+
+            GetComponent<SpriteRenderer>().flipX = false;
             GetComponent<SpriteRenderer>().sprite = MoveUpSprite;
         }
         else if (Input.GetKeyDown(MoveLeft) || Input.GetKeyDown(MoveLeft_Alt))
         {
             Move(-_Step, 0);
-            GetComponent<SpriteRenderer>().sprite = MoveLeftSprite;
+
+            GetComponent<SpriteRenderer>().flipX = true;
+            GetComponent<SpriteRenderer>().sprite = MoveRightSprite;
             
         }
         else if (Input.GetKeyDown(MoveRight) || Input.GetKeyDown(MoveRight_Alt))
         {
             Move(_Step, 0);
-            
+
+            GetComponent<SpriteRenderer>().flipX = false;
             GetComponent<SpriteRenderer>().sprite = MoveRightSprite;
         }
         else if (Input.GetKeyDown(MoveDown) || Input.GetKeyDown(MoveDown_Alt))
         {
             Move(0, -_Step);
-            
+
+            GetComponent<SpriteRenderer>().flipX = false;
             GetComponent<SpriteRenderer>().sprite = MoveDownSprite;
         }
         else if (Input.GetKeyDown("space"))
@@ -179,7 +184,7 @@ public class PlayerBehaviour : MonoBehaviour
 
             newClone.GetComponent<CloneBehaviour>().ListOf_Movements = new List<Vector3>(ListOf_Movements); //gli do la lista dei movimenti
             newClone.GetComponent<CloneBehaviour>().ListOf_Timing = new List<float>(ListOf_Timing); //e la lista dei tempi
-            newClone.GetComponent<CloneBehaviour>()._Timer = _Timer; //e il tempo totale
+            
             
             newClone.GetComponent<CloneBehaviour>().ListOf_Interactions = new List<bool>(ListOf_Interaction);
             #endregion

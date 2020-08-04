@@ -33,6 +33,7 @@ public class CloneBehaviour : MonoBehaviour
     private void Start()
     {
         ListOf_Movements.RemoveAt(ListOf_Movements.Count - 1); //tolgo l'ultima coordinata che non mi serve visto che ci sono già sopra
+        _Timer = GameManager._RewindTime;
     }
 
     void Update()
@@ -69,19 +70,23 @@ public class CloneBehaviour : MonoBehaviour
                 #region Sprite Handling
                 if (Diff.x == 0 && Diff.y > 0)
                 {
+                    GetComponent<SpriteRenderer>().flipX = false;
                     GetComponent<SpriteRenderer>().sprite = MoveUpSprite;
                 }
                 else if (Diff.x == 0 && Diff.y < 0)
                 {
+                    GetComponent<SpriteRenderer>().flipX = false;
                     GetComponent<SpriteRenderer>().sprite = MoveDownSprite;
                 }
                 else if (Diff.x > 0 && Diff.y == 0)
                 {
+                    GetComponent<SpriteRenderer>().flipX = false;
                     GetComponent<SpriteRenderer>().sprite = MoveRightSprite;
                 }
                 else if (Diff.x < 0 && Diff.y == 0)
                 {
-                    GetComponent<SpriteRenderer>().sprite = MoveLeftSprite;
+                    GetComponent<SpriteRenderer>().flipX = true;
+                    GetComponent<SpriteRenderer>().sprite = MoveRightSprite;
                 }
                 #endregion
             }
