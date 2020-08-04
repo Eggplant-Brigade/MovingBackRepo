@@ -32,12 +32,12 @@ public class PlayerBehaviour : MonoBehaviour
     #region Tuning
     [Header("TUNING")]
     public float _Step = 1;
-    public float _RewindTimer = 30;
     
     #endregion
 
     #region Timers
-    float _Timer = 0;
+    public static float _Timer = 0;
+    
     #endregion
 
     #region Liste
@@ -63,7 +63,7 @@ public class PlayerBehaviour : MonoBehaviour
         
         _Timer += Time.deltaTime;
 
-        if (_Timer >= _RewindTimer)
+        if (_Timer >= GameManager._RewindTime)
         {
             Rewind();
         }
