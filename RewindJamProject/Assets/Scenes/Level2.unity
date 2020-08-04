@@ -17156,7 +17156,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9137345097834440161, guid: 9821b83118f5c83468f043af9579f94c, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9137345097834440172, guid: 9821b83118f5c83468f043af9579f94c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -17164,7 +17164,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9137345097834440172, guid: 9821b83118f5c83468f043af9579f94c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.25
+      value: 2.25
       objectReference: {fileID: 0}
     - target: {fileID: 9137345097834440172, guid: 9821b83118f5c83468f043af9579f94c, type: 3}
       propertyPath: m_LocalPosition.z
@@ -18512,6 +18512,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CellTester
       objectReference: {fileID: 0}
+    - target: {fileID: 2146118486529510451, guid: 0bdbf07617d11a940ad2ef5f5bf0361c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3351286217981620104, guid: 0bdbf07617d11a940ad2ef5f5bf0361c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.5
@@ -19199,7 +19203,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 674a16cbee02e174fb7e8c3ffcf7f546, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _NextSceneName: 
+  _NextSceneName: Livello3
 --- !u!61 &1065381105
 BoxCollider2D:
   m_ObjectHideFlags: 0
