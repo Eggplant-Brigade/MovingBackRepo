@@ -42,7 +42,9 @@ public class PlayerBehaviour : MonoBehaviour
 
     [HideInInspector]
     public List<Vector3> ListOf_Movements;
+    [HideInInspector]
     public List<float> ListOf_Timing;
+    [HideInInspector]
     public List<bool> ListOf_Interaction;
 
     #endregion
