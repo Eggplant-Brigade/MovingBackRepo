@@ -74,7 +74,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: be0cf1bd626cc504681499b4a4aa7ec1, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7c43934b1c5250945a3ecf1dbaa7dc26, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -99,6 +99,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Spawn: {x: 0, y: 0, z: 0}
   Clone: {fileID: 6516653251168767748, guid: af9c46220f628214682e4062c5747319, type: 3}
+  MoveUpSprite: {fileID: 21300000, guid: c36cc12d7a7b4cb4a955a288111ecda6, type: 3}
+  MoveDownSprite: {fileID: 21300000, guid: 7c43934b1c5250945a3ecf1dbaa7dc26, type: 3}
+  MoveLeftSprite: {fileID: 0}
+  MoveRightSprite: {fileID: 21300000, guid: bcb61fe0713951b43ba1191afc0f24fc, type: 3}
   MoveUp: 273
   MoveUp_Alt: 0
   MoveLeft: 276
@@ -108,7 +112,6 @@ MonoBehaviour:
   MoveDown: 274
   MoveDown_Alt: 0
   _Step: 1
-  _RewindTimer: 20
   ListOf_Movements: []
   ListOf_Timing: []
   ListOf_Interaction: 
