@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - obstacle
+  - clone
+  - interactable
+  - destination
+  - movable
   layers:
   - Default
   - TransparentFX
@@ -13,7 +18,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Wall
   - 
   - 
   - 
@@ -38,6 +43,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: BackGround
+    uniqueID: 695851825
+    locked: 0
+  - name: Floor
+    uniqueID: 3382998709
+    locked: 0
+  - name: AboveFloor
+    uniqueID: 3912145349
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
