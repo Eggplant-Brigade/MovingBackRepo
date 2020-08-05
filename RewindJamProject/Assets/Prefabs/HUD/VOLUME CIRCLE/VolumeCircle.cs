@@ -1,53 +1,42 @@
-﻿using System.Collections;
+﻿using Microsoft.Unity.VisualStudio.Editor;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class VolumeCircle : MonoBehaviour
 {
-    private float _sensitivity;
-    private Vector3 _mouseReference;
-    private Vector3 _mouseOffset;
-    private Vector3 _rotation;
-    private bool _isRotating;
+    public GameObject VolumeImage;
 
-    void Start()
+    public void SelectVolume(int volumevalue)
     {
-        _sensitivity = 0.4f;
-        _rotation = Vector3.zero;
-    }
-
-    void Update()
-    {
-        if (_isRotating)
+        switch (volumevalue)
         {
-            Debug.Log("mh");
 
-            // offset
-            _mouseOffset = (Input.mousePosition - _mouseReference);
+            case 0:
+                VolumeImage.GetComponent<RectTransform>().rotation = new Quaternion(0, 0, 0, 0);
+                MainMenuManager.ChangeVolume(volumevalue);
+                break;
 
-            // apply rotation
-            _rotation.y = -(_mouseOffset.x + _mouseOffset.y) * _sensitivity;
+            case 25:
+                VolumeImage.GetComponent<RectTransform>().rotation = new Quaternion(0, 0, -0.4f, 0.9f);
+                MainMenuManager.ChangeVolume(volumevalue);
+                break;
 
-            // rotate
-            transform.Rotate(_rotation);
+            case 50:
+                VolumeImage.GetComponent<RectTransform>().rotation = new Quaternion(0, 0, -0.7f, 0.7f);
+                MainMenuManager.ChangeVolume(volumevalue);
+                break;
 
-            // store mouse
-            _mouseReference = Input.mousePosition;
+            case 75:
+                VolumeImage.GetComponent<RectTransform>().rotation = new Quaternion(0, 0, -0.9f, 0.4f);
+                MainMenuManager.ChangeVolume(volumevalue);
+                break;
+
+            case 100:
+                VolumeImage.GetComponent<RectTransform>().rotation = new Quaternion(0, 0, -1, 0);
+                MainMenuManager.ChangeVolume(volumevalue);
+                break;
         }
-    }
 
-    void OnMouseDown()
-    {
-        // rotating flag
-        _isRotating = true;
-
-        // store mouse
-        _mouseReference = Input.mousePosition;
-    }
-
-    void OnMouseUp()
-    {
-        // rotating flag
-        _isRotating = false;
     }
 }
