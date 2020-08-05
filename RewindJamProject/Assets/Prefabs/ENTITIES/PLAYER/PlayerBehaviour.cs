@@ -54,6 +54,7 @@ public class PlayerBehaviour : MonoBehaviour
     public List<bool> ListOf_Interaction;
     #endregion
 
+    [HideInInspector]
     public bool IsGamePaused = false;
 
     #endregion
@@ -177,6 +178,8 @@ public class PlayerBehaviour : MonoBehaviour
 
             ListOf_Interaction.Add(false);
             #endregion
+
+            GetComponent<AudioSource>().Play();
         }
 
     }

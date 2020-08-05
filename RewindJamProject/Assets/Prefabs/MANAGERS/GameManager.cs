@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
@@ -33,6 +34,12 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene("MainMenu");
     }
 
+    public static void NextLevel(string theSceneName)
+    {
+        SceneManager.LoadScene(theSceneName);
+        PlayerBehaviour._Timer = 0;
+    }
+
     public void TogglePause()
     {
         Player.GetComponent<PlayerBehaviour>().IsGamePaused = !Player.GetComponent<PlayerBehaviour>().IsGamePaused;
@@ -47,5 +54,10 @@ public class GameManager : MonoBehaviour
         }
 
         GetComponent<UIManager>().TogglePauseMenu();
+    }
+
+    public void ChangeVolume(Scrollbar VolumeScrollBar)
+    {
+        AudioListener.volume = VolumeScrollBar.value;
     }
 }
