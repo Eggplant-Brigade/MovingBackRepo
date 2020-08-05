@@ -1,11 +1,19 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class MainMenuManager : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public TextMeshProUGUI VersionText;
+
+    private void Start()
+    {
+        VersionText.text = Application.version;
+    }
+
+
     public void LoadScene(string theSceneName)
     {
         SceneManager.LoadScene(theSceneName);

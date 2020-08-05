@@ -25,6 +25,8 @@ public class PressurePlateBehaviour : MonoBehaviour
         {
             TheObject.SetActive(false);
         }
+
+        GetComponent<AudioSource>().Play();
     }
 
     private void OnTriggerExit2D(Collider2D collision)

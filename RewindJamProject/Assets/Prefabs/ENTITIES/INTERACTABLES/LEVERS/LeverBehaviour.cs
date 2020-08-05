@@ -30,6 +30,8 @@ public class LeverBehaviour : MonoBehaviour
             _CloneNear = true;
             CloneNearMe = collision.gameObject;
         }
+
+       
     }
 
     private void OnTriggerExit2D(Collider2D collision)
@@ -65,6 +67,8 @@ public class LeverBehaviour : MonoBehaviour
             }
 
             StartCoroutine(ResetAfterSeconds(_Time));
+
+            GetComponent<AudioSource>().Play();
         }
 
 
