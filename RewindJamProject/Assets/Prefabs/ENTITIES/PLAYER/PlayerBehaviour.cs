@@ -54,6 +54,8 @@ public class PlayerBehaviour : MonoBehaviour
     public List<bool> ListOf_Interaction;
     #endregion
 
+    public bool IsGamePaused = false;
+
     #endregion
 
     #region Behaviours
@@ -75,42 +77,47 @@ public class PlayerBehaviour : MonoBehaviour
 
 
         #region Input Handling
-        if (Input.GetKeyDown(MoveUp)|| Input.GetKeyDown(MoveUp_Alt))
+        if (!IsGamePaused)
         {
-            Move(0, _Step);
 
-            GetComponent<SpriteRenderer>().flipX = false;
-            GetComponent<SpriteRenderer>().sprite = MoveUpSprite;
-        }
-        else if (Input.GetKeyDown(MoveLeft) || Input.GetKeyDown(MoveLeft_Alt))
-        {
-            Move(-_Step, 0);
 
-            GetComponent<SpriteRenderer>().flipX = true;
-            GetComponent<SpriteRenderer>().sprite = MoveRightSprite;
-            
-        }
-        else if (Input.GetKeyDown(MoveRight) || Input.GetKeyDown(MoveRight_Alt))
-        {
-            Move(_Step, 0);
+            if (Input.GetKeyDown(MoveUp) || Input.GetKeyDown(MoveUp_Alt))
+            {
+                Move(0, _Step);
 
-            GetComponent<SpriteRenderer>().flipX = false;
-            GetComponent<SpriteRenderer>().sprite = MoveRightSprite;
-        }
-        else if (Input.GetKeyDown(MoveDown) || Input.GetKeyDown(MoveDown_Alt))
-        {
-            Move(0, -_Step);
+                GetComponent<SpriteRenderer>().flipX = false;
+                GetComponent<SpriteRenderer>().sprite = MoveUpSprite;
+            }
+            else if (Input.GetKeyDown(MoveLeft) || Input.GetKeyDown(MoveLeft_Alt))
+            {
+                Move(-_Step, 0);
 
-            GetComponent<SpriteRenderer>().flipX = false;
-            GetComponent<SpriteRenderer>().sprite = MoveDownSprite;
-        }
-        else if (Input.GetKeyDown("space"))
-        {
-            ListOf_Movements.Add(transform.position);
-            float currentTime = _Timer;
-            ListOf_Timing.Add(currentTime);
+                GetComponent<SpriteRenderer>().flipX = true;
+                GetComponent<SpriteRenderer>().sprite = MoveRightSprite;
 
-            ListOf_Interaction.Add(true);
+            }
+            else if (Input.GetKeyDown(MoveRight) || Input.GetKeyDown(MoveRight_Alt))
+            {
+                Move(_Step, 0);
+
+                GetComponent<SpriteRenderer>().flipX = false;
+                GetComponent<SpriteRenderer>().sprite = MoveRightSprite;
+            }
+            else if (Input.GetKeyDown(MoveDown) || Input.GetKeyDown(MoveDown_Alt))
+            {
+                Move(0, -_Step);
+
+                GetComponent<SpriteRenderer>().flipX = false;
+                GetComponent<SpriteRenderer>().sprite = MoveDownSprite;
+            }
+            else if (Input.GetKeyDown("space"))
+            {
+                ListOf_Movements.Add(transform.position);
+                float currentTime = _Timer;
+                ListOf_Timing.Add(currentTime);
+
+                ListOf_Interaction.Add(true);
+            }
         }
         #endregion
     }
@@ -187,6 +194,8 @@ public class PlayerBehaviour : MonoBehaviour
             
             
             newClone.GetComponent<CloneBehaviour>().ListOf_Interactions = new List<bool>(ListOf_Interaction);
+
+            //GameManager.ListOf_Clones.Add(newClone.GetComponent<CloneBehaviour>());
             #endregion
 
             #region Resetta Player
