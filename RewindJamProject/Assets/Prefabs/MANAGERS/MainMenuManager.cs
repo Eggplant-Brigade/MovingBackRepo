@@ -15,4 +15,9 @@ public class MainMenuManager : MonoBehaviour
     {
         Application.Quit();
     }
+
+    public static void ChangeVolume(float volumevalue)
+    {
+        AudioListener.volume = volumevalue / 100;
+    }
 }
