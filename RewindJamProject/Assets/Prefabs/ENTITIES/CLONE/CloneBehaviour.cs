@@ -25,8 +25,12 @@ public class CloneBehaviour : MonoBehaviour
     public float _Timer;
     #endregion
 
+    #region Booleans
     [HideInInspector]
     public bool IsInteracting = false;
+   // [HideInInspector]
+    //public bool IsGamePaused = false;
+    #endregion
     #endregion
 
     #region Behaviour
@@ -41,9 +45,10 @@ public class CloneBehaviour : MonoBehaviour
         _Timer -= Time.deltaTime;
         if (_Timer <= 0 || ListOf_Timing.Count == 0)
         {
+           // GameManager.ListOf_Clones.Remove(this);
             Destroy(gameObject);
         }
-        else if (_Timer <= ListOf_Timing[ListOf_Timing.Count -1] )
+        else if (_Timer <= ListOf_Timing[ListOf_Timing.Count -1])
         {
 
             if (ListOf_Movements.Count == 0)
