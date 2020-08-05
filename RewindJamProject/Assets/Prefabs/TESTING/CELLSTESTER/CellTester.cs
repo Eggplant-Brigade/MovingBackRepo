@@ -5,7 +5,8 @@ using UnityEngine;
 public class CellTester : MonoBehaviour
 {
         #region Variables
-
+    
+    
     #region Inputs
     [Header("INPUT")]
     public KeyCode MoveUp;
@@ -33,10 +34,7 @@ public class CellTester : MonoBehaviour
 
     #region Behaviours
 
-    private void Start()
-    {
-        
-    }
+
 
     private void Update()
     {
@@ -61,12 +59,11 @@ public class CellTester : MonoBehaviour
         #endregion
     }
 
-
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.layer == 8)
         {
-            GetComponent<SpriteRenderer>().color = new Color(1,0,0);
+            GetComponent<SpriteRenderer>().color = new Color(1, 0, 0);
         }
         else if (collision.gameObject.CompareTag("interactable"))
         {
@@ -78,12 +75,11 @@ public class CellTester : MonoBehaviour
         }
     }
 
-    private void OnCollisionExit2D(Collision2D collision)
+    private void OnTriggerExit2D(Collider2D collision)
     {
-        
         GetComponent<SpriteRenderer>().color = new Color(1, 1, 1);
-        
     }
+
 
     #endregion
 
@@ -94,10 +90,9 @@ public class CellTester : MonoBehaviour
         RaycastHit2D hit = Physics2D.Linecast(transform.position, transform.position + new Vector3(horizontal, vertical));
         GetComponent<BoxCollider2D>().enabled = true;
 
-        if (hit.transform == null || hit.collider.gameObject.layer != 8)
-        {
-            transform.position = transform.position + new Vector3(horizontal, vertical);
-        }
+
+        transform.position = transform.position + new Vector3(horizontal, vertical);
+        
     }
 
     
