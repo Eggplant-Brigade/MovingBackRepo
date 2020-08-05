@@ -10,6 +10,8 @@ public class UIManager : MonoBehaviour
 
     public GameObject PausePanel;
 
+    public GameObject OptionPanel;
+
     void Update()
     {
         SliderObject.GetComponent<Slider>().value = PlayerBehaviour._Timer / GameManager._RewindTime;
@@ -18,5 +20,10 @@ public class UIManager : MonoBehaviour
     public void TogglePauseMenu()
     {
         PausePanel.SetActive(!PausePanel.activeSelf);
+    }
+
+    public void ToggleOptionMenu()
+    {
+        OptionPanel.SetActive(!OptionPanel.activeSelf);
     }
 }
