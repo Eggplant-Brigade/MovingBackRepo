@@ -11,6 +11,11 @@ public class PressurePlateBehaviour : MonoBehaviour
     public List<GameObject> ListOf_ObjectsDeactivated;
     #endregion
 
+    #region
+    bool IsPlayerInside = false;
+    bool IsCloneInside= false;
+    #endregion
+
     #endregion
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -26,20 +31,41 @@ public class PressurePlateBehaviour : MonoBehaviour
             TheObject.SetActive(false);
         }
 
+        if (collision.CompareTag("Player"))
+        {
+            IsPlayerInside = true;
+        }
+        else if(collision.CompareTag("clone"))
+        {
+            IsCloneInside = true;
+        }
+
         GetComponent<AudioSource>().Play();
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-
-        foreach (GameObject TheObject in ListOf_ObjectActivated)
+        if (collision.CompareTag("Player") && !IsCloneInside || collision.CompareTag("clone") && !IsPlayerInside)
         {
-            TheObject.SetActive(false);
+            foreach (GameObject TheObject in ListOf_ObjectActivated)
+            {
+                TheObject.SetActive(false);
+            }
+
+            foreach (GameObject TheObject in ListOf_ObjectsDeactivated)
+            {
+                TheObject.SetActive(true);
+            }
+
+            if (collision.CompareTag("Player"))
+            {
+                IsPlayerInside = false;
+            }
+            else if (collision.CompareTag("clone"))
+            {
+                IsCloneInside = false;
+            }
         }
 
-        foreach (GameObject TheObject in ListOf_ObjectsDeactivated)
-        {
-            TheObject.SetActive(true);
-        }
     }
 }

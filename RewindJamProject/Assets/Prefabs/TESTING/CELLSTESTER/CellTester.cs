@@ -4,9 +4,10 @@ using UnityEngine;
 
 public class CellTester : MonoBehaviour
 {
-        #region Variables
-    
-    
+    #region Variables
+
+    public GameObject TheObject;
+
     #region Inputs
     [Header("INPUT")]
     public KeyCode MoveUp;
@@ -73,11 +74,15 @@ public class CellTester : MonoBehaviour
         {
             GetComponent<SpriteRenderer>().color = new Color(0, 1, 0);
         }
+
+        TheObject = collision.gameObject;
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
         GetComponent<SpriteRenderer>().color = new Color(1, 1, 1);
+
+        TheObject = null;
     }
 
 
