@@ -19,6 +19,10 @@ public class GameManager : MonoBehaviour
     private void Start()
     {
         _RewindTime = _SecondsBeforeRewind;
+
+        PlayerPrefs.SetInt("LL", SceneManager.GetActiveScene().buildIndex);
+
+        Debug.Log("carico "+ PlayerPrefs.GetInt("LL"));
     }
 
     private void Update()
@@ -34,9 +38,9 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene("MainMenu");
     }
 
-    public static void NextLevel(string theSceneName)
+    public static void NextLevel()
     {
-        SceneManager.LoadScene(theSceneName);
+        SceneManager.LoadScene("Transition");
         PlayerBehaviour._Timer = 0;
     }
 

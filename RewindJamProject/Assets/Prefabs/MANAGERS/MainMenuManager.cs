@@ -10,6 +10,10 @@ public class MainMenuManager : MonoBehaviour
     public TextMeshProUGUI TitleText;
     private void Start()
     {
+
+        PlayerPrefs.SetInt("LL", SceneManager.GetActiveScene().buildIndex);
+        Debug.Log(PlayerPrefs.GetInt("LL"));
+
         VersionText.text = Application.version;
         TitleText.text = Application.productName;
     }
