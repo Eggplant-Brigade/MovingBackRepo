@@ -160,10 +160,6 @@ public class PlayerBehaviour : MonoBehaviour
         {
             #region Movable Object
 
-            if (hit.transform!=null)
-            {
-                Debug.Log(hit.transform);
-            }
             if (hit.transform != null && hit.collider.gameObject.CompareTag("movable"))
             {
                 
