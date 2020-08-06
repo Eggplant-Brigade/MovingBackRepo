@@ -7,10 +7,11 @@ using UnityEngine.SceneManagement;
 public class MainMenuManager : MonoBehaviour
 {
     public TextMeshProUGUI VersionText;
-
+    public TextMeshProUGUI TitleText;
     private void Start()
     {
         VersionText.text = Application.version;
+        TitleText.text = Application.productName;
     }
 
 
@@ -27,5 +28,10 @@ public class MainMenuManager : MonoBehaviour
     public static void ChangeVolume(float volumevalue)
     {
         AudioListener.volume = volumevalue / 100;
+    }
+
+    public void OpenLink(string url)
+    {
+        Application.OpenURL(url);
     }
 }
