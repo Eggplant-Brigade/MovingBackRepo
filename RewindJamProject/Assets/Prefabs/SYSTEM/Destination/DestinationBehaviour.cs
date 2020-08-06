@@ -10,7 +10,7 @@ public class DestinationBehaviour : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            GameManager.NextLevel(_NextSceneName);
+            GameManager.NextLevel();
         }
     }
 }
