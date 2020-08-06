@@ -1320,6 +1320,17 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.07, y: 0.18}
   m_EdgeRadius: 0
+--- !u!114 &78743758 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3679302162663961150, guid: 692ee7fa64e2a9b46a5a92c09ad2360a, type: 3}
+  m_PrefabInstance: {fileID: 1377435467}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d2d0529a9c37f04f8ec9b4813d47fd6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &80274119
 GameObject:
   m_ObjectHideFlags: 0
@@ -1360,6 +1371,7 @@ Transform:
   - {fileID: 757028200}
   - {fileID: 728827471}
   - {fileID: 1935766100}
+  - {fileID: 2074725909}
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2165,6 +2177,8 @@ GameObject:
   - component: {fileID: 124490125}
   - component: {fileID: 124490126}
   - component: {fileID: 124490127}
+  - component: {fileID: 124490129}
+  - component: {fileID: 124490128}
   m_Layer: 8
   m_Name: ts_dungeon_230
   m_TagString: Untagged
@@ -2262,6 +2276,47 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 0.18107553, y: 0.18062392}
+  m_EdgeRadius: 0
+--- !u!114 &124490128
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 124490124}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 519e861d4bfb2e7419e4dbbd6cf168ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  UiManagerscript: {fileID: 78743758}
+  _DialogueText: There is something floating
+  InteractInput: 32
+--- !u!61 &124490129
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 124490124}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.0024350956, y: 0.04644659}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.14, y: 0.14}
+    newSize: {x: 0.14, y: 0.14}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.18007176, y: 0.2700506}
   m_EdgeRadius: 0
 --- !u!1 &127487693
 GameObject:
@@ -8765,6 +8820,8 @@ GameObject:
   - component: {fileID: 568772356}
   - component: {fileID: 568772355}
   - component: {fileID: 568772357}
+  - component: {fileID: 568772359}
+  - component: {fileID: 568772358}
   m_Layer: 8
   m_Name: ts_dungeon_263
   m_TagString: Untagged
@@ -8863,6 +8920,47 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.16000725, y: 0.15960452}
   m_EdgeRadius: 0
+--- !u!61 &568772358
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 568772354}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.039717026, y: -0.00044273585}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.14, y: 0.14}
+    newSize: {x: 0.14, y: 0.14}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.23873581, y: 0.15870239}
+  m_EdgeRadius: 0
+--- !u!114 &568772359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 568772354}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 519e861d4bfb2e7419e4dbbd6cf168ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  UiManagerscript: {fileID: 78743758}
+  _DialogueText: If I had a sword and my name was Link, I could break it
+  InteractInput: 32
 --- !u!1 &575602089
 GameObject:
   m_ObjectHideFlags: 0
@@ -10766,7 +10864,7 @@ Transform:
   m_LocalScale: {x: 1031.2924, y: 610.3853, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!82 &716955981
 AudioSource:
@@ -11248,7 +11346,9 @@ GameObject:
   m_Component:
   - component: {fileID: 728827471}
   - component: {fileID: 728827472}
-  m_Layer: 0
+  - component: {fileID: 728827474}
+  - component: {fileID: 728827473}
+  m_Layer: 8
   m_Name: ts_dungeon_229
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11320,6 +11420,47 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &728827473
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 728827470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 519e861d4bfb2e7419e4dbbd6cf168ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  UiManagerscript: {fileID: 78743758}
+  _DialogueText: 2 glasses? somebody must have been here before
+  InteractInput: 32
+--- !u!61 &728827474
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 728827470}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.012013622, y: -0.008551646}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.14, y: 0.14}
+    newSize: {x: 0.14, y: 0.14}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.16402756, y: 0.1571033}
+  m_EdgeRadius: 0
 --- !u!1 &730112254
 GameObject:
   m_ObjectHideFlags: 0
@@ -11853,7 +11994,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.011329196, y: -0.022176072}
+  m_Offset: {x: -0.011456564, y: -0.022176072}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -11864,7 +12005,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.33319283, y: 0.440779}
+  m_Size: {x: 0.3329381, y: 0.440779}
   m_EdgeRadius: 0
 --- !u!1 &768697215
 GameObject:
@@ -31308,12 +31449,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2074725907}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 5.890562, y: -0.84827614, z: 0}
   m_LocalScale: {x: 12.5, y: 12.5, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_Father: {fileID: 80274120}
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2080800998
 GameObject:
@@ -31734,6 +31875,8 @@ GameObject:
   m_Component:
   - component: {fileID: 2095461641}
   - component: {fileID: 2095461640}
+  - component: {fileID: 2095461642}
+  - component: {fileID: 2095461643}
   m_Layer: 0
   m_Name: ts_dungeon_174
   m_TagString: Untagged
@@ -31806,6 +31949,47 @@ Transform:
   m_Father: {fileID: 80274120}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2095461642
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2095461639}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 519e861d4bfb2e7419e4dbbd6cf168ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  UiManagerscript: {fileID: 78743758}
+  _DialogueText: 'E questo cosa dovrebbe essere? '
+  InteractInput: 32
+--- !u!61 &2095461643
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2095461639}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.008010276, y: -0.15837818}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.13, y: 0.06}
+    newSize: {x: 0.13, y: 0.06}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.30491042, y: 0.37675637}
+  m_EdgeRadius: 0
 --- !u!1 &2110761192
 GameObject:
   m_ObjectHideFlags: 0
