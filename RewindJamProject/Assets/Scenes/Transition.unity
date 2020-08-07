@@ -726,7 +726,7 @@ GameObject:
   - component: {fileID: 1510944830}
   - component: {fileID: 1510944829}
   m_Layer: 5
-  m_Name: PlaySprites
+  m_Name: FFSprites
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -771,7 +771,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 0190f9bfd62fff144b723de55a00b740, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 42d5b9d10c6e58d4381aee3085109c18, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
