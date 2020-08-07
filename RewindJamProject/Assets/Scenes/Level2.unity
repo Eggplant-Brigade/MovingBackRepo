@@ -4622,6 +4622,8 @@ GameObject:
   m_Component:
   - component: {fileID: 388003066}
   - component: {fileID: 388003067}
+  - component: {fileID: 388003069}
+  - component: {fileID: 388003068}
   m_Layer: 0
   m_Name: ts_dungeon_174 (2)
   m_TagString: Untagged
@@ -4694,6 +4696,47 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &388003068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 388003065}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 519e861d4bfb2e7419e4dbbd6cf168ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  UiManagerscript: {fileID: 1543039547}
+  _DialogueText: Someone ran out of assets to use ...
+  InteractInput: 32
+--- !u!61 &388003069
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 388003065}
+  m_Enabled: 0
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.0025516935, y: 0.115981326}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.13, y: 0.06}
+    newSize: {x: 0.13, y: 0.06}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.23830232, y: 0.29196253}
+  m_EdgeRadius: 0
 --- !u!1 &401119044
 GameObject:
   m_ObjectHideFlags: 0
@@ -5360,6 +5403,8 @@ GameObject:
   m_Component:
   - component: {fileID: 462368654}
   - component: {fileID: 462368655}
+  - component: {fileID: 462368657}
+  - component: {fileID: 462368656}
   m_Layer: 0
   m_Name: Pergamenta attaccata al muro e tutta
   m_TagString: Untagged
@@ -5458,6 +5503,47 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &462368656
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 462368653}
+  m_Enabled: 0
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.0020084642, y: -0.15389095}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.25, y: 0.15}
+    newSize: {x: 0.25, y: 0.15}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.21706161, y: 0.45778194}
+  m_EdgeRadius: 0
+--- !u!114 &462368657
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 462368653}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 519e861d4bfb2e7419e4dbbd6cf168ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  UiManagerscript: {fileID: 1543039547}
+  _DialogueText: Someone didn't really have a fucking thing to do
+  InteractInput: 32
 --- !u!1 &462425850
 GameObject:
   m_ObjectHideFlags: 0
@@ -20920,6 +21006,17 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1543039547 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3679302162663961150, guid: 692ee7fa64e2a9b46a5a92c09ad2360a, type: 3}
+  m_PrefabInstance: {fileID: 506932820}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d2d0529a9c37f04f8ec9b4813d47fd6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1545123838
 GameObject:
   m_ObjectHideFlags: 0
@@ -27119,7 +27216,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.13, y: -0.0502026}
+  m_Offset: {x: -0.13, y: -0.052786946}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -27130,7 +27227,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.110000014, y: 0.41959476}
+  m_Size: {x: 0.110000014, y: 0.42476344}
   m_EdgeRadius: 0
 --- !u!1 &1998986959
 GameObject:
