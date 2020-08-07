@@ -917,8 +917,17 @@ TextureImporter:
   - first:
       213: 1876183841459204567
     second: top-down interior v2_304
+  - first:
+      213: -8524873351176107921
+    second: top-down interior v2_305
+  - first:
+      213: -6797969226109543931
+    second: top-down interior v2_306
+  - first:
+      213: -2092540533288994174
+    second: top-down interior v2_307
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -938,6 +947,7 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -972,6 +982,8 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -2980,7 +2992,7 @@ TextureImporter:
         serializedVersion: 2
         x: 85
         y: 784
-        width: 22
+        width: 3
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -7372,7 +7384,7 @@ TextureImporter:
         width: 17
         height: 28
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -7393,7 +7405,7 @@ TextureImporter:
         width: 9
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -7401,6 +7413,69 @@ TextureImporter:
       bones: []
       spriteID: 1e7c9dab0bebb5a46a9072c7959e4944
       internalID: 1876183841459204567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_305
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 784
+        width: 3
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6844f39ad091b980800000000000000
+      internalID: -8524873351176107921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_306
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 813
+        width: 16
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a14bb8103c8a1a0800000000000000
+      internalID: -6797969226109543931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top-down interior v2_307
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 864
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28af333c87dc5f2e0800000000000000
+      internalID: -2092540533288994174
       vertices: []
       indices: 
       edges: []
