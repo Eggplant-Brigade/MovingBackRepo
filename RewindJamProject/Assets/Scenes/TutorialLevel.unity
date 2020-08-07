@@ -12011,7 +12011,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3679302163795683682, guid: 692ee7fa64e2a9b46a5a92c09ad2360a, type: 3}
       propertyPath: orthographic size
-      value: 15.269365
+      value: 11.805057
       objectReference: {fileID: 0}
     - target: {fileID: 3679302163795683682, guid: 692ee7fa64e2a9b46a5a92c09ad2360a, type: 3}
       propertyPath: near clip plane
@@ -12019,7 +12019,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3679302163795683741, guid: 692ee7fa64e2a9b46a5a92c09ad2360a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 13.52
+      value: 12.07
       objectReference: {fileID: 0}
     - target: {fileID: 3679302163795683741, guid: 692ee7fa64e2a9b46a5a92c09ad2360a, type: 3}
       propertyPath: m_LocalPosition.y
