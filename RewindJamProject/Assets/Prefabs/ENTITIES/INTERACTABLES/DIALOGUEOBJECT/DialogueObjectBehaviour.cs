@@ -30,7 +30,6 @@ public class DialogueObjectBehaviour : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log("E' entrato");
         if (collision.CompareTag("Player"))
         {
             IsPlayerInsideTrigger = true;
@@ -39,7 +38,7 @@ public class DialogueObjectBehaviour : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        Debug.Log("E' uscito");
+
         if (collision.CompareTag("Player"))
         {
             IsPlayerInsideTrigger = false;
