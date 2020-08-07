@@ -22,7 +22,6 @@ public class UIManager : MonoBehaviour
         if (DialogueBox.activeInHierarchy && Input.anyKeyDown && !Input.GetKeyDown("space"))
         {
             DialogueBox.SetActive(false);
-            Debug.Log("mi disattivo");
         }
     }
 
@@ -38,9 +37,7 @@ public class UIManager : MonoBehaviour
 
     public void OpenDialogueBox(string theDialogue)
     {
-        Debug.Log("attivo");
         DialogueBox.SetActive(true);
-        DialogueBox.transform.GetChild(0).GetComponent<TextMeshProUGUI>().text = theDialogue;
-        Debug.Log("dovrebbe essersi attivato");
+        DialogueBox.transform.GetChild(1).GetComponent<TextMeshProUGUI>().text = theDialogue;
     }
 }
