@@ -40,17 +40,13 @@ public class TransitionManager : MonoBehaviour
         _Timer += Time.deltaTime;
         _BlinkTimer += Time.deltaTime;
 
-        if (_BlinkTimer >= 1 && _BlinkTimer < 2)
+        if (_BlinkTimer >= 1)
         {
-            TheSprites.SetActive(true);
-        }
-        else if (_BlinkTimer >= 2)
-        {
-            TheSprites.SetActive(false);
+            TheSprites.SetActive(!TheSprites.activeInHierarchy);
             _BlinkTimer = 0;
         }
 
-        if (_Timer >= 6)
+        if (_Timer >= 10 - PlayerPrefs.GetInt("LL"))
         {
             Debug.Log("leggo" + PlayerPrefs.GetInt("LL"));
 
