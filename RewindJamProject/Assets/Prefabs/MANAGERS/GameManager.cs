@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
@@ -18,6 +19,10 @@ public class GameManager : MonoBehaviour
     private void Start()
     {
         _RewindTime = _SecondsBeforeRewind;
+
+        PlayerPrefs.SetInt("LL", SceneManager.GetActiveScene().buildIndex);
+
+        Debug.Log("carico "+ PlayerPrefs.GetInt("LL"));
     }
 
     private void Update()
@@ -31,6 +36,12 @@ public class GameManager : MonoBehaviour
     public void BackToMenu()
     {
         SceneManager.LoadScene("MainMenu");
+    }
+
+    public static void NextLevel()
+    {
+        SceneManager.LoadScene("Transition");
+        PlayerBehaviour._Timer = 0;
     }
 
     public void TogglePause()
@@ -47,5 +58,10 @@ public class GameManager : MonoBehaviour
         }
 
         GetComponent<UIManager>().TogglePauseMenu();
+    }
+
+    public void ChangeVolume(Scrollbar VolumeScrollBar)
+    {
+        AudioListener.volume = VolumeScrollBar.value;
     }
 }

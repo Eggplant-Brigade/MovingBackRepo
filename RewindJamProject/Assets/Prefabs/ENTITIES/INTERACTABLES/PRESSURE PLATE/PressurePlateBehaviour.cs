@@ -11,10 +11,14 @@ public class PressurePlateBehaviour : MonoBehaviour
     public List<GameObject> ListOf_ObjectsDeactivated;
     #endregion
 
+    public List<GameObject> DebugList;
+
+
     #endregion
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        DebugList.Add(collision.gameObject);
 
         foreach (GameObject TheObject in ListOf_ObjectActivated)
         {
@@ -25,19 +29,26 @@ public class PressurePlateBehaviour : MonoBehaviour
         {
             TheObject.SetActive(false);
         }
+
+        GetComponent<AudioSource>().Play();
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
+        DebugList.Remove(collision.gameObject);
 
-        foreach (GameObject TheObject in ListOf_ObjectActivated)
+        if (DebugList.Count == 0)
         {
-            TheObject.SetActive(false);
+            foreach (GameObject TheObject in ListOf_ObjectActivated)
+            {
+                TheObject.SetActive(false);
+            }
+
+            foreach (GameObject TheObject in ListOf_ObjectsDeactivated)
+            {
+                TheObject.SetActive(true);
+            }
         }
 
-        foreach (GameObject TheObject in ListOf_ObjectsDeactivated)
-        {
-            TheObject.SetActive(true);
-        }
     }
 }

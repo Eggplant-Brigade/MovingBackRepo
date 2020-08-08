@@ -54,6 +54,7 @@ public class PlayerBehaviour : MonoBehaviour
     public List<bool> ListOf_Interaction;
     #endregion
 
+    [HideInInspector]
     public bool IsGamePaused = false;
 
     #endregion
@@ -158,8 +159,10 @@ public class PlayerBehaviour : MonoBehaviour
         if (hit.transform == null || hit.collider.gameObject.layer != 8 )
         {
             #region Movable Object
+
             if (hit.transform != null && hit.collider.gameObject.CompareTag("movable"))
             {
+                
                 if(!hit.collider.gameObject.GetComponent<MovableObjectBehaviour>().AttemptMove(vertical, horizontal))
                 {
                     return;
@@ -177,6 +180,8 @@ public class PlayerBehaviour : MonoBehaviour
 
             ListOf_Interaction.Add(false);
             #endregion
+
+            GetComponent<AudioSource>().Play();
         }
 
     }
