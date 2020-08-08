@@ -9,6 +9,7 @@ public class PlayerBehaviour : MonoBehaviour
 
     #region References
     public Vector3 Spawn;
+    public Vector3 CameraSpawn;
     public GameObject Clone;
 
     public Sprite MoveUpSprite;
@@ -64,6 +65,7 @@ public class PlayerBehaviour : MonoBehaviour
     private void Start()
     {
         Spawn = transform.position;
+        CameraSpawn = Camera.main.transform.position;
     }
 
     private void Update()
@@ -206,6 +208,7 @@ public class PlayerBehaviour : MonoBehaviour
             #region Resetta Player
             //Riporta giocatore alla partenza
             transform.position = Spawn;
+            Camera.main.transform.position = CameraSpawn;
 
             //Pulisco liste
             for (int i = ListOf_Movements.Count - 1; i > -1; i--)

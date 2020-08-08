@@ -1268,7 +1268,7 @@ ScriptsOnlyBuild:
     className: Outline
   - hash:
       serializedVersion: 2
-      Hash: fc667063f1186c5ac8063bd22a8c7dbb
+      Hash: a578165d9c11d68ecf44f9d8d817839b
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PlayerBehaviour
@@ -1338,9 +1338,9 @@ ScriptsOnlyBuild:
   - Assets/Scenes/MainMenu.unity
   - Assets/Scenes/TutorialLevel.unity
   - Assets/Scenes/Level2.unity
-  - Assets/Scenes/Livello3.unity
   - Assets/Scenes/Livello4Leve.unity
   - Assets/Scenes/Level5.unity
+  - Assets/Scenes/Livello3.unity
   - Assets/Scenes/Livello Casa.unity
   - Assets/Scenes/Transition.unity
-  playerPath: C:/Users/paolo/Desktop/Rob/MovingBack [1.0.2]/Moving Back.exe
+  playerPath: C:/Users/paolo/Desktop/Rob/MovingBack [1.0.3]/Moving Back.exe
