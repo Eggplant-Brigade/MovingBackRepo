@@ -28095,6 +28095,7 @@ GameObject:
   - component: {fileID: 1501064936}
   - component: {fileID: 1501064935}
   - component: {fileID: 1501064937}
+  - component: {fileID: 1501064938}
   m_Layer: 8
   m_Name: Catodico
   m_TagString: interactable
@@ -28142,7 +28143,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 27
-  m_Sprite: {fileID: 21300000, guid: 2dc8d2b9d208e4243b8904e4bf9b5f8e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8c3d501b4c05c5643ae1eabb588bc0c1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -28231,6 +28232,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2bb77ead0959bd848937dbc38218699a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1501064938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1501064932}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af37c8ebb8202ef428ee088f96204b6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteA: {fileID: 21300000, guid: 8c3d501b4c05c5643ae1eabb588bc0c1, type: 3}
+  SpriteB: {fileID: 21300000, guid: 75941797d55a3984ea8e3022a56266b8, type: 3}
 --- !u!1 &1505128882
 GameObject:
   m_ObjectHideFlags: 0

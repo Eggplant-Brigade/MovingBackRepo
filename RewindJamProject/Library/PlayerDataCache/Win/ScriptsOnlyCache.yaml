@@ -1,6 +1,7 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - BlinkingObject
     - CameraPositionChanger
     - CellTester
     - CloneBehaviour
@@ -111,15 +112,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 14338}
     - Class: 114
-      Script: {instanceID: 14442}
+      Script: {instanceID: 14444}
     - Class: 114
-      Script: {instanceID: 14600}
+      Script: {instanceID: 14602}
     - Class: 114
-      Script: {instanceID: 14714}
+      Script: {instanceID: 14716}
     - Class: 114
-      Script: {instanceID: 14976}
+      Script: {instanceID: 14978}
     - Class: 114
-      Script: {instanceID: 15084}
+      Script: {instanceID: 15086}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -204,13 +205,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 14338}
     - Class: 114
-      Script: {instanceID: 14442}
+      Script: {instanceID: 14444}
     - Class: 114
-      Script: {instanceID: 14714}
+      Script: {instanceID: 14716}
     - Class: 114
-      Script: {instanceID: 14976}
+      Script: {instanceID: 14978}
     - Class: 114
-      Script: {instanceID: 15084}
+      Script: {instanceID: 15086}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -287,17 +288,19 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 14338}
     - Class: 114
-      Script: {instanceID: 14442}
+      Script: {instanceID: 14346}
     - Class: 114
-      Script: {instanceID: 14600}
+      Script: {instanceID: 14444}
     - Class: 114
-      Script: {instanceID: 14714}
+      Script: {instanceID: 14602}
     - Class: 114
-      Script: {instanceID: 14730}
+      Script: {instanceID: 14716}
     - Class: 114
-      Script: {instanceID: 14976}
+      Script: {instanceID: 14732}
     - Class: 114
-      Script: {instanceID: 15084}
+      Script: {instanceID: 14978}
+    - Class: 114
+      Script: {instanceID: 15086}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -376,13 +379,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 14338}
     - Class: 114
-      Script: {instanceID: 14442}
+      Script: {instanceID: 14444}
     - Class: 114
-      Script: {instanceID: 14714}
+      Script: {instanceID: 14716}
     - Class: 114
-      Script: {instanceID: 14976}
+      Script: {instanceID: 14978}
     - Class: 114
-      Script: {instanceID: 15084}
+      Script: {instanceID: 15086}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -461,15 +464,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 14338}
     - Class: 114
-      Script: {instanceID: 14442}
+      Script: {instanceID: 14444}
     - Class: 114
-      Script: {instanceID: 14600}
+      Script: {instanceID: 14602}
     - Class: 114
-      Script: {instanceID: 14714}
+      Script: {instanceID: 14716}
     - Class: 114
-      Script: {instanceID: 14976}
+      Script: {instanceID: 14978}
     - Class: 114
-      Script: {instanceID: 15084}
+      Script: {instanceID: 15086}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -532,9 +535,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 14338}
     - Class: 114
-      Script: {instanceID: 14442}
+      Script: {instanceID: 14444}
     - Class: 114
-      Script: {instanceID: 15084}
+      Script: {instanceID: 15086}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -587,11 +590,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 14338}
     - Class: 114
-      Script: {instanceID: 14442}
+      Script: {instanceID: 14444}
     - Class: 114
-      Script: {instanceID: 14738}
+      Script: {instanceID: 14740}
     - Class: 114
-      Script: {instanceID: 15084}
+      Script: {instanceID: 15086}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -634,9 +637,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13452}
     - Class: 114
-      Script: {instanceID: 14442}
+      Script: {instanceID: 14444}
     - Class: 114
-      Script: {instanceID: 15084}
+      Script: {instanceID: 15086}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -709,13 +712,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 14338}
     - Class: 114
-      Script: {instanceID: 14442}
+      Script: {instanceID: 14444}
     - Class: 114
-      Script: {instanceID: 14714}
+      Script: {instanceID: 14716}
     - Class: 114
-      Script: {instanceID: 14976}
+      Script: {instanceID: 14978}
     - Class: 114
-      Script: {instanceID: 15084}
+      Script: {instanceID: 15086}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1181,6 +1184,12 @@ ScriptsOnlyBuild:
     className: TextMeshProUGUI
   - hash:
       serializedVersion: 2
+      Hash: 48812fac5be2ac20e1ad802a6b8936d9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BlinkingObject
+  - hash:
+      serializedVersion: 2
       Hash: f336e086360abe49a3323e5f1583c35a
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -1334,4 +1343,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Level5.unity
   - Assets/Scenes/Livello Casa.unity
   - Assets/Scenes/Transition.unity
-  playerPath: C:/Users/paolo/Desktop/Rob/MovingBack [1.0]/Moving Back.exe
+  playerPath: C:/Users/paolo/Desktop/Rob/MovingBack [1.0.2]/Moving Back.exe

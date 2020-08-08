@@ -43,6 +43,11 @@ public class TransitionManager : MonoBehaviour
         if (_BlinkTimer >= 1)
         {
             TheSprites.SetActive(!TheSprites.activeInHierarchy);
+            if (PlayerPrefs.GetInt("LL") == 3 && TheSprites.transform.childCount >0)
+            {
+                TheSprites.transform.GetChild(0).gameObject.SetActive(true);
+                TheSprites.transform.GetChild(0).parent = TheSprites.transform.parent;
+            }
             _BlinkTimer = 0;
         }
 
