@@ -1752,7 +1752,7 @@ SpriteRenderer:
   m_Size: {x: 0.28, y: 0.23}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &125132436
@@ -2505,7 +2505,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 231927605}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3.126, y: -11.25, z: 0}
+  m_LocalPosition: {x: 2.94, y: -11.25, z: 0}
   m_LocalScale: {x: 13.4, y: 12.5, z: 1}
   m_Children: []
   m_Father: {fileID: 846909307}
@@ -6462,15 +6462,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3679302163795683682, guid: 692ee7fa64e2a9b46a5a92c09ad2360a, type: 3}
       propertyPath: orthographic size
-      value: 33.594486
+      value: 25.432453
       objectReference: {fileID: 0}
     - target: {fileID: 3679302163795683741, guid: 692ee7fa64e2a9b46a5a92c09ad2360a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -13.5
+      value: -6.45
       objectReference: {fileID: 0}
     - target: {fileID: 3679302163795683741, guid: 692ee7fa64e2a9b46a5a92c09ad2360a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.04
+      value: 2.79
       objectReference: {fileID: 0}
     - target: {fileID: 3679302163813951684, guid: 692ee7fa64e2a9b46a5a92c09ad2360a, type: 3}
       propertyPath: m_SortingOrder
@@ -11211,9 +11211,11 @@ GameObject:
   m_Component:
   - component: {fileID: 830925472}
   - component: {fileID: 830925473}
+  - component: {fileID: 830925475}
+  - component: {fileID: 830925474}
   m_Layer: 0
   m_Name: ts_dungeon_681 (58)
-  m_TagString: Untagged
+  m_TagString: interactable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11283,6 +11285,45 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &830925474
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 830925471}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.12, y: 0.12}
+    newSize: {x: 0.12, y: 0.12}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.12, y: 0.12}
+  m_EdgeRadius: 0
+--- !u!114 &830925475
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 830925471}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 723332f7a12145b48b32d727a75e27bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _CameraPosition: {x: 2.79, y: -33.2}
 --- !u!1 &843028735
 GameObject:
   m_ObjectHideFlags: 0
@@ -11852,7 +11893,7 @@ SpriteRenderer:
   m_Size: {x: 0.1, y: 0.13}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &879206711
@@ -19493,7 +19534,7 @@ SpriteRenderer:
   m_Size: {x: 0.12, y: 0.26}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1436669319
@@ -19684,9 +19725,11 @@ GameObject:
   m_Component:
   - component: {fileID: 1451879365}
   - component: {fileID: 1451879366}
+  - component: {fileID: 1451879368}
+  - component: {fileID: 1451879367}
   m_Layer: 0
   m_Name: ts_dungeon_681 (70)
-  m_TagString: Untagged
+  m_TagString: interactable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19756,6 +19799,45 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1451879367
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1451879364}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 723332f7a12145b48b32d727a75e27bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _CameraPosition: {x: 2.79, y: -6.45}
+--- !u!61 &1451879368
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1451879364}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.12, y: 0.12}
+    newSize: {x: 0.12, y: 0.12}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.12, y: 0.12}
+  m_EdgeRadius: 0
 --- !u!1 &1452786954
 GameObject:
   m_ObjectHideFlags: 0
@@ -24460,7 +24542,7 @@ SpriteRenderer:
   m_Size: {x: 0.16, y: 0.51}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1729168051

@@ -23580,6 +23580,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MovableObject
       objectReference: {fileID: 0}
+    - target: {fileID: 1408794143236363913, guid: d45481f7dd2b52c40ac0d81532abf9f0, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 6722778232609436249, guid: 171a5ab759a1f5d4eacb2100b30064a0, type: 3}
     - target: {fileID: 3601291625906414005, guid: d45481f7dd2b52c40ac0d81532abf9f0, type: 3}
       propertyPath: m_LocalPosition.x
       value: -14
